@@ -1,0 +1,6112 @@
+{
+ "_readme": "Single source of truth for every package (from sahabatravels.com/packages). Edit here, then run: python3 _build/build.py — it regenerates /packages/*.html, the package cards on index.html and sitemap.xml. Images are Unsplash photo IDs (free licence). group: umrah | family | honeymoon | religious. Set featured: true to show a package on the home page.",
+ "packages": [
+  {
+   "slug": "azmat-umrah",
+   "group": "umrah",
+   "title": "Azmat Umrah",
+   "category": "Umrah · Makkah & Madinah",
+   "country": "Saudi Arabia",
+   "cities": [
+    "Makkah",
+    "Madinah"
+   ],
+   "nights": 14,
+   "days": 15,
+   "price": 94500,
+   "pax": "Groups & families",
+   "badge": "",
+   "image": "photo-1707386910200-1e150f7b8037",
+   "imageAlt": "Abraj Al-Bait clock tower above the Kaaba, Makkah",
+   "gallery": [
+    [
+     "photo-1693590614566-1d3ea9ef32f7",
+     "The Kaaba in Masjid al-Haram"
+    ],
+    [
+     "photo-1667454872134-c25973237138",
+     "Green Dome of Al-Masjid an-Nabawi, Madinah"
+    ],
+    [
+     "photo-1602769490455-36cf9734dbcb",
+     "Umbrellas in the courtyard of the Prophet’s Mosque"
+    ],
+    [
+     "photo-1720549973451-018d3623b55a",
+     "The Kaaba with the Abraj Al-Bait towers, Makkah"
+    ]
+   ],
+   "duration_note": "7N Makkah, 7N Madina",
+   "summary": "15 Days / 14 Nights — 7 nights in Makkah and 7 nights in Madinah, with flights, accommodation, meals, visa, Ziarat, all sightseeing and all transfers.",
+   "overview": "Azmat Umrah is a complete 15-day Umrah from Mumbai: 7 nights in Makkah and 7 nights in Madinah. Flights, visa, hotel accommodation, daily meals, guided Ziarat in both holy cities and every transfer are arranged, with an experienced group leader guiding the Umrah so you can focus entirely on worship.",
+   "highlights": [
+    "7 nights Makkah + 7 nights Madinah",
+    "Guided Umrah with an experienced group leader",
+    "Ziarat of Jabal al-Noor, Jabal Thawr, Mina, Muzdalifah & Arafat",
+    "Madinah Ziarat: Masjid Quba, Uhud & Masjid al-Qiblatain",
+    "Rawdah appointment via Nusuk",
+    "Daily meals and all transfers included"
+   ],
+   "itinerary": [
+    {
+     "title": "Mumbai → Jeddah · Perform Umrah",
+     "text": "Pre-departure briefing and Ihram at Mumbai airport. Fly to Jeddah, then travel by AC coach to Makkah. After check-in and rest, perform Umrah — Tawaf, Sa’i and Halq/Taqsir — together with the group leader.",
+     "items": [
+      [
+       "plane",
+       "Flight Mumbai → Jeddah (JED)"
+      ],
+      [
+       "bus",
+       "AC coach Jeddah → Makkah"
+      ],
+      [
+       "kaaba",
+       "Guided Umrah"
+      ]
+     ],
+     "meals": "Dinner",
+     "stay": "Hotel, Makkah"
+    },
+    {
+     "title": "Days 2–5 · Ibadah in Makkah",
+     "text": "Five daily prayers in Masjid al-Haram, nafl Tawaf and Qur’an recitation, with short talks by the group leader on the virtues and etiquette of the Haram.",
+     "items": [
+      [
+       "mosque",
+       "Prayers in Masjid al-Haram"
+      ],
+      [
+       "book-open",
+       "Group learning sessions"
+      ]
+     ],
+     "meals": "Breakfast, Lunch, Dinner",
+     "stay": "Hotel, Makkah"
+    },
+    {
+     "title": "Day 6 · Makkah Ziarat",
+     "text": "Guided Ziarat by coach: Jabal al-Noor (Cave of Hira), Jabal Thawr, Mina, Muzdalifah, Arafat and Jabal al-Rahmah, with an optional second Umrah from Masjid Aisha (Taneem).",
+     "items": [
+      [
+       "bus",
+       "Ziarat coach tour"
+      ],
+      [
+       "mountain",
+       "Jabal al-Noor & Jabal Thawr"
+      ],
+      [
+       "location-dot",
+       "Mina, Muzdalifah & Arafat"
+      ]
+     ],
+     "meals": "Breakfast, Lunch, Dinner",
+     "stay": "Hotel, Makkah"
+    },
+    {
+     "title": "Day 7 · Ibadah · Tawaf al-Wida",
+     "text": "A final day of worship in the Haram, ending with the farewell Tawaf.",
+     "items": [
+      [
+       "kaaba",
+       "Tawaf al-Wida"
+      ]
+     ],
+     "meals": "Breakfast, Lunch, Dinner",
+     "stay": "Hotel, Makkah"
+    },
+    {
+     "title": "Day 8 · Makkah → Madinah",
+     "text": "Travel to Madinah by AC coach (Haramain train on request) and check in near Masjid an-Nabawi.",
+     "items": [
+      [
+       "bus",
+       "Coach Makkah → Madinah"
+      ]
+     ],
+     "meals": "Breakfast, Lunch, Dinner",
+     "stay": "Hotel, Madinah"
+    },
+    {
+     "title": "Days 9–13 · Masjid an-Nabawi & Rawdah",
+     "text": "Prayers at the Prophet’s Mosque ﷺ, Salam at the Rawdah (Nusuk appointment booked for you) and visits to Jannat al-Baqi.",
+     "items": [
+      [
+       "mosque",
+       "Prayers in Masjid an-Nabawi"
+      ],
+      [
+       "calendar-check",
+       "Rawdah visit via Nusuk"
+      ]
+     ],
+     "meals": "Breakfast, Lunch, Dinner",
+     "stay": "Hotel, Madinah"
+    },
+    {
+     "title": "Day 14 · Madinah Ziarat",
+     "text": "Guided Ziarat: Masjid Quba, Mount Uhud and the martyrs’ graveyard, Masjid al-Qiblatain, the site of the Battle of the Trench and a date farm.",
+     "items": [
+      [
+       "bus",
+       "Ziarat coach tour"
+      ],
+      [
+       "mosque",
+       "Masjid Quba & Masjid al-Qiblatain"
+      ],
+      [
+       "mountain",
+       "Mount Uhud"
+      ]
+     ],
+     "meals": "Breakfast, Lunch, Dinner",
+     "stay": "Hotel, Madinah"
+    },
+    {
+     "title": "Day 15 · Return to Mumbai",
+     "text": "Transfer to Madinah (or Jeddah) airport for the flight home with your Zamzam allowance.",
+     "items": [
+      [
+       "bus",
+       "Hotel-to-airport transfer"
+      ],
+      [
+       "plane",
+       "Flight Madinah/Jeddah → Mumbai"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Makkah",
+     "Hotel as per package category (distance from Haram confirmed at booking)"
+    ],
+    [
+     "Madinah",
+     "Hotel near Masjid an-Nabawi (confirmed at booking)"
+    ]
+   ],
+   "inclusions": [
+    "Flights (return economy Mumbai – Jeddah/Madinah)",
+    "Accommodation in Makkah & Madinah",
+    "Meals (daily Indian breakfast, lunch & dinner)",
+    "Umrah visa with Saudi medical insurance",
+    "Ziarat in Makkah & Madinah",
+    "All sightseeing as per itinerary",
+    "All transfers by AC coach"
+   ],
+   "exclusions": [
+    "Haramain high-speed train (if preferred over coach)",
+    "Personal expenses & laundry",
+    "Qurbani / Hady",
+    "Anything not listed under inclusions"
+   ],
+   "bestTime": "Year-round; peak during Ramadan and school holidays",
+   "faqs": [
+    [
+     "What documents are needed for the Umrah visa?",
+     "A passport valid for at least 6 months, a recent white-background photo and any vaccination certificate required at the time of travel. We complete the visa and Nusuk registration for you."
+    ],
+    [
+     "Can I upgrade the hotel or room sharing?",
+     "Yes. Hotel category, distance from the Haram and room sharing (quad / triple / double) can all be changed — ask us for the upgraded price."
+    ]
+   ],
+   "priceNote": "per person, starting price"
+  },
+  {
+   "slug": "rehmat-umrah",
+   "group": "umrah",
+   "title": "Rehmat Umrah",
+   "category": "Umrah · Makkah & Madinah",
+   "country": "Saudi Arabia",
+   "cities": [
+    "Makkah",
+    "Madinah"
+   ],
+   "nights": 14,
+   "days": 15,
+   "price": 86500,
+   "pax": "Groups & families",
+   "badge": "",
+   "image": "photo-1592326871020-04f58c1a52f3",
+   "imageAlt": "Pilgrims performing Tawaf around the Kaaba",
+   "gallery": [
+    [
+     "photo-1627728734379-a5f8c099763e",
+     "The Kaaba with the clock tower in the background"
+    ],
+    [
+     "photo-1605976528013-638e49b6599f",
+     "Al-Masjid an-Nabawi with its minarets, Madinah"
+    ],
+    [
+     "photo-1650446647974-451d05d2136d",
+     "Pilgrims on Jabal al-Rahmah, Arafat"
+    ],
+    [
+     "photo-1575101261474-5cb5653bb416",
+     "Minarets of the Prophet’s Mosque"
+    ]
+   ],
+   "duration_note": "9N Makkah, 5N Madina",
+   "summary": "15 Days / 14 Nights — 9 nights in Makkah and 5 nights in Madinah, with flights, accommodation, meals, visa, Ziarat, all sightseeing and all transfers.",
+   "overview": "Rehmat Umrah is a complete 15-day Umrah from Mumbai: 9 nights in Makkah and 5 nights in Madinah. Flights, visa, hotel accommodation, daily meals, guided Ziarat in both holy cities and every transfer are arranged, with an experienced group leader guiding the Umrah so you can focus entirely on worship.",
+   "highlights": [
+    "9 nights Makkah + 5 nights Madinah",
+    "Guided Umrah with an experienced group leader",
+    "Ziarat of Jabal al-Noor, Jabal Thawr, Mina, Muzdalifah & Arafat",
+    "Madinah Ziarat: Masjid Quba, Uhud & Masjid al-Qiblatain",
+    "Rawdah appointment via Nusuk",
+    "Daily meals and all transfers included"
+   ],
+   "itinerary": [
+    {
+     "title": "Mumbai → Jeddah · Perform Umrah",
+     "text": "Pre-departure briefing and Ihram at Mumbai airport. Fly to Jeddah, then travel by AC coach to Makkah. After check-in and rest, perform Umrah — Tawaf, Sa’i and Halq/Taqsir — together with the group leader.",
+     "items": [
+      [
+       "plane",
+       "Flight Mumbai → Jeddah (JED)"
+      ],
+      [
+       "bus",
+       "AC coach Jeddah → Makkah"
+      ],
+      [
+       "kaaba",
+       "Guided Umrah"
+      ]
+     ],
+     "meals": "Dinner",
+     "stay": "Hotel, Makkah"
+    },
+    {
+     "title": "Days 2–7 · Ibadah in Makkah",
+     "text": "Five daily prayers in Masjid al-Haram, nafl Tawaf and Qur’an recitation, with short talks by the group leader on the virtues and etiquette of the Haram.",
+     "items": [
+      [
+       "mosque",
+       "Prayers in Masjid al-Haram"
+      ],
+      [
+       "book-open",
+       "Group learning sessions"
+      ]
+     ],
+     "meals": "Breakfast, Lunch, Dinner",
+     "stay": "Hotel, Makkah"
+    },
+    {
+     "title": "Day 8 · Makkah Ziarat",
+     "text": "Guided Ziarat by coach: Jabal al-Noor (Cave of Hira), Jabal Thawr, Mina, Muzdalifah, Arafat and Jabal al-Rahmah, with an optional second Umrah from Masjid Aisha (Taneem).",
+     "items": [
+      [
+       "bus",
+       "Ziarat coach tour"
+      ],
+      [
+       "mountain",
+       "Jabal al-Noor & Jabal Thawr"
+      ],
+      [
+       "location-dot",
+       "Mina, Muzdalifah & Arafat"
+      ]
+     ],
+     "meals": "Breakfast, Lunch, Dinner",
+     "stay": "Hotel, Makkah"
+    },
+    {
+     "title": "Day 9 · Ibadah · Tawaf al-Wida",
+     "text": "A final day of worship in the Haram, ending with the farewell Tawaf.",
+     "items": [
+      [
+       "kaaba",
+       "Tawaf al-Wida"
+      ]
+     ],
+     "meals": "Breakfast, Lunch, Dinner",
+     "stay": "Hotel, Makkah"
+    },
+    {
+     "title": "Day 10 · Makkah → Madinah",
+     "text": "Travel to Madinah by AC coach (Haramain train on request) and check in near Masjid an-Nabawi.",
+     "items": [
+      [
+       "bus",
+       "Coach Makkah → Madinah"
+      ]
+     ],
+     "meals": "Breakfast, Lunch, Dinner",
+     "stay": "Hotel, Madinah"
+    },
+    {
+     "title": "Days 11–13 · Masjid an-Nabawi & Rawdah",
+     "text": "Prayers at the Prophet’s Mosque ﷺ, Salam at the Rawdah (Nusuk appointment booked for you) and visits to Jannat al-Baqi.",
+     "items": [
+      [
+       "mosque",
+       "Prayers in Masjid an-Nabawi"
+      ],
+      [
+       "calendar-check",
+       "Rawdah visit via Nusuk"
+      ]
+     ],
+     "meals": "Breakfast, Lunch, Dinner",
+     "stay": "Hotel, Madinah"
+    },
+    {
+     "title": "Day 14 · Madinah Ziarat",
+     "text": "Guided Ziarat: Masjid Quba, Mount Uhud and the martyrs’ graveyard, Masjid al-Qiblatain, the site of the Battle of the Trench and a date farm.",
+     "items": [
+      [
+       "bus",
+       "Ziarat coach tour"
+      ],
+      [
+       "mosque",
+       "Masjid Quba & Masjid al-Qiblatain"
+      ],
+      [
+       "mountain",
+       "Mount Uhud"
+      ]
+     ],
+     "meals": "Breakfast, Lunch, Dinner",
+     "stay": "Hotel, Madinah"
+    },
+    {
+     "title": "Day 15 · Return to Mumbai",
+     "text": "Transfer to Madinah (or Jeddah) airport for the flight home with your Zamzam allowance.",
+     "items": [
+      [
+       "bus",
+       "Hotel-to-airport transfer"
+      ],
+      [
+       "plane",
+       "Flight Madinah/Jeddah → Mumbai"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Makkah",
+     "Hotel as per package category (distance from Haram confirmed at booking)"
+    ],
+    [
+     "Madinah",
+     "Hotel near Masjid an-Nabawi (confirmed at booking)"
+    ]
+   ],
+   "inclusions": [
+    "Flights (return economy Mumbai – Jeddah/Madinah)",
+    "Accommodation in Makkah & Madinah",
+    "Meals (daily Indian breakfast, lunch & dinner)",
+    "Umrah visa with Saudi medical insurance",
+    "Ziarat in Makkah & Madinah",
+    "All sightseeing as per itinerary",
+    "All transfers by AC coach"
+   ],
+   "exclusions": [
+    "Haramain high-speed train (if preferred over coach)",
+    "Personal expenses & laundry",
+    "Qurbani / Hady",
+    "Anything not listed under inclusions"
+   ],
+   "bestTime": "Year-round; peak during Ramadan and school holidays",
+   "faqs": [
+    [
+     "What documents are needed for the Umrah visa?",
+     "A passport valid for at least 6 months, a recent white-background photo and any vaccination certificate required at the time of travel. We complete the visa and Nusuk registration for you."
+    ],
+    [
+     "Can I upgrade the hotel or room sharing?",
+     "Yes. Hotel category, distance from the Haram and room sharing (quad / triple / double) can all be changed — ask us for the upgraded price."
+    ]
+   ],
+   "priceNote": "per person, starting price"
+  },
+  {
+   "slug": "khidmat-umrah",
+   "group": "umrah",
+   "title": "Khidmat Umrah",
+   "category": "Umrah · Makkah & Madinah",
+   "country": "Saudi Arabia",
+   "cities": [
+    "Makkah",
+    "Madinah"
+   ],
+   "nights": 14,
+   "days": 15,
+   "price": 75000,
+   "pax": "Groups & families",
+   "badge": "",
+   "image": "photo-1720549973451-018d3623b55a",
+   "imageAlt": "The Kaaba with the Abraj Al-Bait towers, Makkah",
+   "gallery": [
+    [
+     "photo-1591004272853-1462c050dca8",
+     "Pilgrims in white Ihram around the Kaaba"
+    ],
+    [
+     "photo-1724191078796-8a997b989f43",
+     "Green dome and minarets, Madinah"
+    ],
+    [
+     "photo-1551041777-575d3855ca71",
+     "Al-Masjid an-Nabawi under a clear sky"
+    ],
+    [
+     "photo-1771170983433-1576bc4a7eec",
+     "The Kaaba at night"
+    ]
+   ],
+   "duration_note": "9N Makkah, 5N Madina",
+   "summary": "15 Days / 14 Nights — 9 nights in Makkah and 5 nights in Madinah, with flights, accommodation, meals, visa, Ziarat, all sightseeing and all transfers.",
+   "overview": "Khidmat Umrah is a complete 15-day Umrah from Mumbai: 9 nights in Makkah and 5 nights in Madinah. Flights, visa, hotel accommodation, daily meals, guided Ziarat in both holy cities and every transfer are arranged, with an experienced group leader guiding the Umrah so you can focus entirely on worship.",
+   "highlights": [
+    "9 nights Makkah + 5 nights Madinah",
+    "Guided Umrah with an experienced group leader",
+    "Ziarat of Jabal al-Noor, Jabal Thawr, Mina, Muzdalifah & Arafat",
+    "Madinah Ziarat: Masjid Quba, Uhud & Masjid al-Qiblatain",
+    "Rawdah appointment via Nusuk",
+    "Daily meals and all transfers included"
+   ],
+   "itinerary": [
+    {
+     "title": "Mumbai → Jeddah · Perform Umrah",
+     "text": "Pre-departure briefing and Ihram at Mumbai airport. Fly to Jeddah, then travel by AC coach to Makkah. After check-in and rest, perform Umrah — Tawaf, Sa’i and Halq/Taqsir — together with the group leader.",
+     "items": [
+      [
+       "plane",
+       "Flight Mumbai → Jeddah (JED)"
+      ],
+      [
+       "bus",
+       "AC coach Jeddah → Makkah"
+      ],
+      [
+       "kaaba",
+       "Guided Umrah"
+      ]
+     ],
+     "meals": "Dinner",
+     "stay": "Hotel, Makkah"
+    },
+    {
+     "title": "Days 2–7 · Ibadah in Makkah",
+     "text": "Five daily prayers in Masjid al-Haram, nafl Tawaf and Qur’an recitation, with short talks by the group leader on the virtues and etiquette of the Haram.",
+     "items": [
+      [
+       "mosque",
+       "Prayers in Masjid al-Haram"
+      ],
+      [
+       "book-open",
+       "Group learning sessions"
+      ]
+     ],
+     "meals": "Breakfast, Lunch, Dinner",
+     "stay": "Hotel, Makkah"
+    },
+    {
+     "title": "Day 8 · Makkah Ziarat",
+     "text": "Guided Ziarat by coach: Jabal al-Noor (Cave of Hira), Jabal Thawr, Mina, Muzdalifah, Arafat and Jabal al-Rahmah, with an optional second Umrah from Masjid Aisha (Taneem).",
+     "items": [
+      [
+       "bus",
+       "Ziarat coach tour"
+      ],
+      [
+       "mountain",
+       "Jabal al-Noor & Jabal Thawr"
+      ],
+      [
+       "location-dot",
+       "Mina, Muzdalifah & Arafat"
+      ]
+     ],
+     "meals": "Breakfast, Lunch, Dinner",
+     "stay": "Hotel, Makkah"
+    },
+    {
+     "title": "Day 9 · Ibadah · Tawaf al-Wida",
+     "text": "A final day of worship in the Haram, ending with the farewell Tawaf.",
+     "items": [
+      [
+       "kaaba",
+       "Tawaf al-Wida"
+      ]
+     ],
+     "meals": "Breakfast, Lunch, Dinner",
+     "stay": "Hotel, Makkah"
+    },
+    {
+     "title": "Day 10 · Makkah → Madinah",
+     "text": "Travel to Madinah by AC coach (Haramain train on request) and check in near Masjid an-Nabawi.",
+     "items": [
+      [
+       "bus",
+       "Coach Makkah → Madinah"
+      ]
+     ],
+     "meals": "Breakfast, Lunch, Dinner",
+     "stay": "Hotel, Madinah"
+    },
+    {
+     "title": "Days 11–13 · Masjid an-Nabawi & Rawdah",
+     "text": "Prayers at the Prophet’s Mosque ﷺ, Salam at the Rawdah (Nusuk appointment booked for you) and visits to Jannat al-Baqi.",
+     "items": [
+      [
+       "mosque",
+       "Prayers in Masjid an-Nabawi"
+      ],
+      [
+       "calendar-check",
+       "Rawdah visit via Nusuk"
+      ]
+     ],
+     "meals": "Breakfast, Lunch, Dinner",
+     "stay": "Hotel, Madinah"
+    },
+    {
+     "title": "Day 14 · Madinah Ziarat",
+     "text": "Guided Ziarat: Masjid Quba, Mount Uhud and the martyrs’ graveyard, Masjid al-Qiblatain, the site of the Battle of the Trench and a date farm.",
+     "items": [
+      [
+       "bus",
+       "Ziarat coach tour"
+      ],
+      [
+       "mosque",
+       "Masjid Quba & Masjid al-Qiblatain"
+      ],
+      [
+       "mountain",
+       "Mount Uhud"
+      ]
+     ],
+     "meals": "Breakfast, Lunch, Dinner",
+     "stay": "Hotel, Madinah"
+    },
+    {
+     "title": "Day 15 · Return to Mumbai",
+     "text": "Transfer to Madinah (or Jeddah) airport for the flight home with your Zamzam allowance.",
+     "items": [
+      [
+       "bus",
+       "Hotel-to-airport transfer"
+      ],
+      [
+       "plane",
+       "Flight Madinah/Jeddah → Mumbai"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Makkah",
+     "Hotel as per package category (distance from Haram confirmed at booking)"
+    ],
+    [
+     "Madinah",
+     "Hotel near Masjid an-Nabawi (confirmed at booking)"
+    ]
+   ],
+   "inclusions": [
+    "Flights (return economy Mumbai – Jeddah/Madinah)",
+    "Accommodation in Makkah & Madinah",
+    "Meals (daily Indian breakfast, lunch & dinner)",
+    "Umrah visa with Saudi medical insurance",
+    "Ziarat in Makkah & Madinah",
+    "All sightseeing as per itinerary",
+    "All transfers by AC coach"
+   ],
+   "exclusions": [
+    "Haramain high-speed train (if preferred over coach)",
+    "Personal expenses & laundry",
+    "Qurbani / Hady",
+    "Anything not listed under inclusions"
+   ],
+   "bestTime": "Year-round; peak during Ramadan and school holidays",
+   "faqs": [
+    [
+     "What documents are needed for the Umrah visa?",
+     "A passport valid for at least 6 months, a recent white-background photo and any vaccination certificate required at the time of travel. We complete the visa and Nusuk registration for you."
+    ],
+    [
+     "Can I upgrade the hotel or room sharing?",
+     "Yes. Hotel category, distance from the Haram and room sharing (quad / triple / double) can all be changed — ask us for the upgraded price."
+    ]
+   ],
+   "priceNote": "per person, starting price"
+  },
+  {
+   "slug": "hajj-package-2027",
+   "group": "umrah",
+   "title": "Hajj Package 2027 — 21 Days",
+   "category": "Hajj · Makkah, Mina, Arafat & Madinah",
+   "country": "Saudi Arabia",
+   "cities": [
+    "Makkah",
+    "Mina",
+    "Arafat",
+    "Muzdalifah",
+    "Madinah"
+   ],
+   "nights": 20,
+   "days": 21,
+   "price": 450000,
+   "priceNote": "per person, indicative — final price after Saudi Hajj ministry rates",
+   "pax": "Groups & families",
+   "badge": "",
+   "icon": "kaaba",
+   "image": "photo-1589827577276-65d717348780",
+   "imageAlt": "Pilgrims in white Ihram surrounding the Kaaba",
+   "gallery": [
+    [
+     "photo-1605553378313-22d0dc541393",
+     "Crowd of pilgrims around the Kaaba in Masjid al-Haram"
+    ],
+    [
+     "photo-1650446647974-451d05d2136d",
+     "Pilgrims gathered on Jabal al-Rahmah, Arafat"
+    ],
+    [
+     "photo-1771170983433-1576bc4a7eec",
+     "The Kaaba at night with golden trim"
+    ],
+    [
+     "photo-1724191078796-8a997b989f43",
+     "Green dome and minarets of Al-Masjid an-Nabawi"
+    ]
+   ],
+   "summary": "Our government-registered Hajj package covers all rites — Mina, Arafat, Muzdalifah, Tawaf, Sa'i — with complete accommodation, meals, transport, and a dedicated Muallim throughout.",
+   "overview": "A 21-day Hajj with every rite guided, from the first Umrah to Tawaf al-Wida. Stay in Makkah before Hajj, live in air-conditioned Mina tents through the days of Tashreeq, stand at Arafat with your group, then end the journey with a peaceful week in Madinah. Seats depend on the Hajj quota allotted to private tour operators — register early.",
+   "highlights": [
+    "Complete guidance through all Hajj rites",
+    "Air-conditioned Mina tents with mattresses and catering",
+    "Dedicated Muallim and Indian group leader",
+    "Pre-departure Hajj training sessions in Mumbai",
+    "Madinah stay near Masjid an-Nabawi",
+    "Hajj kit, Ihram and guidebook"
+   ],
+   "itinerary": [
+    {
+     "title": "Days 1–2 · Mumbai → Makkah · Umrah",
+     "text": "Pre-departure briefing and Ihram (Tamattu’) in Mumbai. Fly to Jeddah, transfer to Makkah and perform Umrah with the group. Rest and settle in.",
+     "items": [
+      [
+       "plane",
+       "Flight Mumbai → Jeddah"
+      ],
+      [
+       "bus",
+       "AC coach to Makkah"
+      ],
+      [
+       "kaaba",
+       "Umrah al-Tamattu’"
+      ]
+     ],
+     "meals": "Full board",
+     "stay": "Hotel, Makkah (Aziziyah or Haram area)"
+    },
+    {
+     "title": "Days 3–7 · Preparation in Makkah",
+     "text": "Prayers in Masjid al-Haram, daily Hajj workshops on the rites of each day, and Ziyarat of the holy sites so you know the ground before Hajj begins.",
+     "items": [
+      [
+       "book-open",
+       "Daily Hajj workshops"
+      ],
+      [
+       "bus",
+       "Makkah Ziyarat"
+      ]
+     ],
+     "meals": "Full board",
+     "stay": "Hotel, Makkah"
+    },
+    {
+     "title": "Day 8 · 8 Dhul Hijjah · Yawm al-Tarwiyah · Mina",
+     "text": "Enter Ihram for Hajj and move to the Mina tents. Pray Dhuhr to Fajr in Mina, following the Sunnah.",
+     "items": [
+      [
+       "campground",
+       "AC tents in Mina"
+      ]
+     ],
+     "meals": "Full board",
+     "stay": "Mina tents"
+    },
+    {
+     "title": "Day 9 · 9 Dhul Hijjah · Day of Arafat · Muzdalifah",
+     "text": "Move to Arafat after sunrise for Wuquf — the heart of Hajj — with du’a until sunset. Proceed to Muzdalifah, pray Maghrib and Isha combined, collect pebbles and spend the night under the open sky.",
+     "items": [
+      [
+       "location-dot",
+       "Wuquf at Arafat"
+      ],
+      [
+       "moon",
+       "Night at Muzdalifah"
+      ]
+     ],
+     "meals": "Full board",
+     "stay": "Arafat camp / Muzdalifah"
+    },
+    {
+     "title": "Day 10 · Eid al-Adha · Rami · Qurbani · Tawaf al-Ifadah",
+     "text": "Return to Mina for Rami of Jamarat al-Aqabah, Qurbani (arranged through the official coupon system), Halq, then Tawaf al-Ifadah and Sa’i in Makkah.",
+     "items": [
+      [
+       "hand",
+       "Rami at Jamarat"
+      ],
+      [
+       "kaaba",
+       "Tawaf al-Ifadah & Sa’i"
+      ]
+     ],
+     "meals": "Full board",
+     "stay": "Mina tents"
+    },
+    {
+     "title": "Days 11–13 · Days of Tashreeq in Mina",
+     "text": "Stay in Mina and stone all three Jamarat each day, with the group leader timing each Rami for safety. Return to Makkah after Rami on the 12th or 13th.",
+     "items": [
+      [
+       "hand",
+       "Daily Rami of the three Jamarat"
+      ],
+      [
+       "campground",
+       "Mina tents"
+      ]
+     ],
+     "meals": "Full board",
+     "stay": "Mina tents / Makkah hotel"
+    },
+    {
+     "title": "Days 14–15 · Makkah · Tawaf al-Wida",
+     "text": "Rest, prayer in the Haram, and the farewell Tawaf before leaving Makkah.",
+     "items": [
+      [
+       "kaaba",
+       "Tawaf al-Wida"
+      ]
+     ],
+     "meals": "Full board",
+     "stay": "Hotel, Makkah"
+    },
+    {
+     "title": "Days 16–20 · Madinah",
+     "text": "Travel to Madinah and stay near Masjid an-Nabawi. Salam at the Rawdah, prayers in the Prophet’s Mosque ﷺ and Ziyarat of Quba, Uhud and al-Qiblatain.",
+     "items": [
+      [
+       "bus",
+       "Coach / train Makkah → Madinah"
+      ],
+      [
+       "mosque",
+       "Masjid an-Nabawi & Rawdah"
+      ],
+      [
+       "mountain",
+       "Madinah Ziyarat"
+      ]
+     ],
+     "meals": "Full board",
+     "stay": "Hotel, Madinah"
+    },
+    {
+     "title": "Day 21 · Return to Mumbai",
+     "text": "Transfer to Madinah airport for the flight home with Zamzam as per airline allowance.",
+     "items": [
+      [
+       "plane",
+       "Flight Madinah → Mumbai"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Makkah",
+     "Hotel in Aziziyah or near the Haram (category as per final package)"
+    ],
+    [
+     "Mina",
+     "Air-conditioned tents with sofa-beds"
+    ],
+    [
+     "Madinah",
+     "Hotel within walking distance of Masjid an-Nabawi"
+    ]
+   ],
+   "inclusions": [
+    "Return economy airfare",
+    "Hajj visa through an approved private Hajj group operator",
+    "Accommodation in Makkah, Mina, Arafat and Madinah",
+    "Full-board Indian meals",
+    "All transfers by AC coach (Mashair train where allotted)",
+    "Dedicated Muallim and Indian group leader",
+    "Pre-departure training and Hajj kit"
+   ],
+   "exclusions": [
+    "Qurbani coupon (paid at actual cost)",
+    "Personal expenses",
+    "Room upgrades",
+    "Any increase in Saudi government or airline charges"
+   ],
+   "bestTime": "Hajj 1448 AH — expected around mid-May 2027 (subject to moon sighting)",
+   "faqs": [
+    [
+     "When should I register for Hajj 2027?",
+     "As early as possible. Private Hajj seats depend on the quota allotted by the Ministry of Minority Affairs, and registration usually opens several months before Hajj."
+    ],
+    [
+     "What is included in the Hajj package price?",
+     "Flights, Hajj visa, accommodation in Makkah, Mina, Arafat and Madinah, full-board meals, transfers and guidance. Qurbani is paid at actual cost."
+    ]
+   ]
+  },
+  {
+   "slug": "hajj-package-35-days",
+   "group": "umrah",
+   "title": "Hajj Package 2027 — 35 Days",
+   "category": "Hajj · Makkah, Mina, Arafat & Madinah",
+   "country": "Saudi Arabia",
+   "cities": [
+    "Makkah",
+    "Mina",
+    "Arafat",
+    "Muzdalifah",
+    "Madinah"
+   ],
+   "nights": 34,
+   "days": 35,
+   "price": 650000,
+   "priceNote": "per person, starting price — final as per Saudi Hajj ministry rates",
+   "pax": "Groups & families",
+   "badge": "",
+   "icon": "kaaba",
+   "image": "photo-1605553378313-22d0dc541393",
+   "imageAlt": "Crowd of pilgrims around the Kaaba",
+   "gallery": [
+    [
+     "photo-1592326871020-04f58c1a52f3",
+     "Pilgrims performing Tawaf"
+    ],
+    [
+     "photo-1650446647974-451d05d2136d",
+     "Pilgrims on Jabal al-Rahmah, Arafat"
+    ],
+    [
+     "photo-1667454872134-c25973237138",
+     "Green Dome of Al-Masjid an-Nabawi"
+    ],
+    [
+     "photo-1771170983433-1576bc4a7eec",
+     "The Kaaba at night"
+    ]
+   ],
+   "summary": "A 35-day Hajj with extra time in Makkah before the rites and a peaceful stay in Madinah — flights, Hajj visa, accommodation, full-board meals, transport and a dedicated Muallim throughout.",
+   "overview": "A 35-day Hajj for pilgrims who want time to prepare and to rest. Arrive in Makkah about 19 days before Hajj for Umrah, worship and daily training, complete every rite in Mina, Arafat and Muzdalifah with your group leader, then spend about 6 nights in Madinah near Masjid an-Nabawi. Seats depend on the Hajj quota allotted to private tour operators — register early.",
+   "highlights": [
+    "35 days — about 28 nights in Makkah/Mina and 6 nights in Madinah",
+    "Complete guidance through all Hajj rites",
+    "Air-conditioned Mina tents with catering",
+    "Dedicated Muallim and Indian group leader",
+    "Daily Hajj workshops and Makkah & Madinah Ziyarat",
+    "Hajj kit, Ihram and guidebook"
+   ],
+   "itinerary": [
+    {
+     "title": "Days 1–2 · Mumbai → Makkah · Umrah",
+     "text": "Pre-departure Hajj training and Ihram (Tamattu’) in Mumbai. Fly to Jeddah, transfer to Makkah and perform Umrah with the group, then rest and settle in.",
+     "items": [
+      [
+       "plane",
+       "Flight Mumbai → Jeddah"
+      ],
+      [
+       "bus",
+       "AC coach to Makkah"
+      ],
+      [
+       "kaaba",
+       "Umrah al-Tamattu’"
+      ]
+     ],
+     "meals": "Full board",
+     "stay": "Hotel, Makkah"
+    },
+    {
+     "title": "Days 3–19 · Makkah before Hajj",
+     "text": "Unhurried weeks of worship in Masjid al-Haram, daily Hajj workshops on the rites of each day, nafl Tawaf, and guided Ziyarat of Jabal al-Noor, Jabal Thawr, Mina, Muzdalifah and Arafat so you know the ground before Hajj begins.",
+     "items": [
+      [
+       "mosque",
+       "Prayers in Masjid al-Haram"
+      ],
+      [
+       "book-open",
+       "Daily Hajj workshops"
+      ],
+      [
+       "bus",
+       "Makkah Ziyarat"
+      ]
+     ],
+     "meals": "Full board",
+     "stay": "Hotel, Makkah (Aziziyah / Haram area)"
+    },
+    {
+     "title": "Day 20 · 8 Dhul Hijjah · Yawm al-Tarwiyah · Mina",
+     "text": "Enter Ihram for Hajj and move to the air-conditioned Mina tents. Pray Dhuhr to Fajr in Mina following the Sunnah.",
+     "items": [
+      [
+       "campground",
+       "AC tents in Mina"
+      ]
+     ],
+     "meals": "Full board",
+     "stay": "Mina tents"
+    },
+    {
+     "title": "Day 21 · 9 Dhul Hijjah · Day of Arafat · Muzdalifah",
+     "text": "Wuquf at Arafat from noon until sunset — the heart of Hajj — then proceed to Muzdalifah, pray Maghrib and Isha combined, collect pebbles and spend the night under the open sky.",
+     "items": [
+      [
+       "location-dot",
+       "Wuquf at Arafat"
+      ],
+      [
+       "moon",
+       "Night at Muzdalifah"
+      ]
+     ],
+     "meals": "Full board",
+     "stay": "Arafat camp / Muzdalifah"
+    },
+    {
+     "title": "Day 22 · 10 Dhul Hijjah · Eid al-Adha",
+     "text": "Rami of Jamarat al-Aqabah, Qurbani through the official coupon system, Halq, then Tawaf al-Ifadah and Sa’i in Makkah.",
+     "items": [
+      [
+       "hand",
+       "Rami at Jamarat"
+      ],
+      [
+       "kaaba",
+       "Tawaf al-Ifadah & Sa’i"
+      ]
+     ],
+     "meals": "Full board",
+     "stay": "Mina tents"
+    },
+    {
+     "title": "Days 23–24 · Days of Tashreeq",
+     "text": "Stone all three Jamarat each day, with the group leader timing every Rami for safety, and return to Makkah after Rami on the 12th or 13th.",
+     "items": [
+      [
+       "hand",
+       "Daily Rami of the three Jamarat"
+      ],
+      [
+       "campground",
+       "Mina tents"
+      ]
+     ],
+     "meals": "Full board",
+     "stay": "Mina tents / Makkah hotel"
+    },
+    {
+     "title": "Days 25–28 · Makkah after Hajj · Tawaf al-Wida",
+     "text": "Rest and recover, more prayers in the Haram, and the farewell Tawaf before leaving Makkah.",
+     "items": [
+      [
+       "kaaba",
+       "Tawaf al-Wida"
+      ],
+      [
+       "bag-shopping",
+       "Free time for dates & gifts"
+      ]
+     ],
+     "meals": "Full board",
+     "stay": "Hotel, Makkah"
+    },
+    {
+     "title": "Days 29–34 · Madinah",
+     "text": "Travel to Madinah by coach or Haramain train and stay near Masjid an-Nabawi. Salam at the Rawdah (Nusuk appointment), prayers in the Prophet’s Mosque ﷺ, Jannat al-Baqi, and Ziyarat of Quba, Uhud, al-Qiblatain and the Seven Mosques.",
+     "items": [
+      [
+       "train",
+       "Coach / train Makkah → Madinah"
+      ],
+      [
+       "mosque",
+       "Masjid an-Nabawi & Rawdah"
+      ],
+      [
+       "mountain",
+       "Madinah Ziyarat"
+      ]
+     ],
+     "meals": "Full board",
+     "stay": "Hotel, Madinah"
+    },
+    {
+     "title": "Day 35 · Return to Mumbai",
+     "text": "Transfer to Madinah airport for the flight home with Zamzam as per airline allowance.",
+     "items": [
+      [
+       "plane",
+       "Flight Madinah → Mumbai"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Makkah",
+     "Hotel in Aziziyah or near the Haram (category as per final package)"
+    ],
+    [
+     "Mina",
+     "Air-conditioned tents with sofa-beds"
+    ],
+    [
+     "Madinah",
+     "Hotel within walking distance of Masjid an-Nabawi"
+    ]
+   ],
+   "inclusions": [
+    "Return economy airfare",
+    "Hajj visa through an approved private Hajj group operator",
+    "Accommodation in Makkah, Mina, Arafat and Madinah",
+    "Full-board Indian meals",
+    "All transfers by AC coach (Mashair train where allotted)",
+    "Dedicated Muallim and Indian group leader",
+    "Pre-departure training and Hajj kit"
+   ],
+   "exclusions": [
+    "Qurbani coupon (paid at actual cost)",
+    "Personal expenses",
+    "Room upgrades",
+    "Any increase in Saudi government or airline charges"
+   ],
+   "bestTime": "Hajj 1448 AH — expected around mid-May 2027 (subject to moon sighting)",
+   "faqs": [
+    [
+     "When should I register for Hajj 2027?",
+     "As early as possible. Private Hajj seats depend on the quota allotted by the Ministry of Minority Affairs, and registration usually opens several months before Hajj."
+    ],
+    [
+     "What is included in the Hajj package price?",
+     "Flights, Hajj visa, accommodation in Makkah, Mina, Arafat and Madinah, full-board meals, transfers and guidance. Qurbani is paid at actual cost."
+    ]
+   ],
+   "duration_note": "35 Days · Makkah, Mina, Arafat & Madinah"
+  },
+  {
+   "slug": "hajj-package-40-days",
+   "group": "umrah",
+   "title": "Hajj Package 2027 — 40 Days",
+   "category": "Hajj · Makkah, Mina, Arafat & Madinah",
+   "country": "Saudi Arabia",
+   "cities": [
+    "Makkah",
+    "Mina",
+    "Arafat",
+    "Muzdalifah",
+    "Madinah"
+   ],
+   "nights": 39,
+   "days": 40,
+   "price": 750000,
+   "priceNote": "per person, starting price — final as per Saudi Hajj ministry rates",
+   "pax": "Groups & families",
+   "badge": "",
+   "icon": "kaaba",
+   "image": "photo-1693590614566-1d3ea9ef32f7",
+   "imageAlt": "The Kaaba in Masjid al-Haram with pilgrims",
+   "gallery": [
+    [
+     "photo-1564769625905-50e93615e769",
+     "Pilgrims in white around the Kaaba"
+    ],
+    [
+     "photo-1650446647974-451d05d2136d",
+     "Pilgrims on Jabal al-Rahmah, Arafat"
+    ],
+    [
+     "photo-1605976528013-638e49b6599f",
+     "Al-Masjid an-Nabawi, Madinah"
+    ],
+    [
+     "photo-1707386910200-1e150f7b8037",
+     "Abraj Al-Bait clock tower above the Kaaba"
+    ]
+   ],
+   "summary": "A 40-day Hajj with extra time in Makkah before the rites and a peaceful stay in Madinah — flights, Hajj visa, accommodation, full-board meals, transport and a dedicated Muallim throughout.",
+   "overview": "A 40-day Hajj for pilgrims who want time to prepare and to rest. Arrive in Makkah about 22 days before Hajj for Umrah, worship and daily training, complete every rite in Mina, Arafat and Muzdalifah with your group leader, then spend about 8 nights in Madinah near Masjid an-Nabawi. Seats depend on the Hajj quota allotted to private tour operators — register early.",
+   "highlights": [
+    "40 days — about 31 nights in Makkah/Mina and 8 nights in Madinah",
+    "Complete guidance through all Hajj rites",
+    "Air-conditioned Mina tents with catering",
+    "Dedicated Muallim and Indian group leader",
+    "Daily Hajj workshops and Makkah & Madinah Ziyarat",
+    "Hajj kit, Ihram and guidebook"
+   ],
+   "itinerary": [
+    {
+     "title": "Days 1–2 · Mumbai → Makkah · Umrah",
+     "text": "Pre-departure Hajj training and Ihram (Tamattu’) in Mumbai. Fly to Jeddah, transfer to Makkah and perform Umrah with the group, then rest and settle in.",
+     "items": [
+      [
+       "plane",
+       "Flight Mumbai → Jeddah"
+      ],
+      [
+       "bus",
+       "AC coach to Makkah"
+      ],
+      [
+       "kaaba",
+       "Umrah al-Tamattu’"
+      ]
+     ],
+     "meals": "Full board",
+     "stay": "Hotel, Makkah"
+    },
+    {
+     "title": "Days 3–22 · Makkah before Hajj",
+     "text": "Unhurried weeks of worship in Masjid al-Haram, daily Hajj workshops on the rites of each day, nafl Tawaf, and guided Ziyarat of Jabal al-Noor, Jabal Thawr, Mina, Muzdalifah and Arafat so you know the ground before Hajj begins.",
+     "items": [
+      [
+       "mosque",
+       "Prayers in Masjid al-Haram"
+      ],
+      [
+       "book-open",
+       "Daily Hajj workshops"
+      ],
+      [
+       "bus",
+       "Makkah Ziyarat"
+      ]
+     ],
+     "meals": "Full board",
+     "stay": "Hotel, Makkah (Aziziyah / Haram area)"
+    },
+    {
+     "title": "Day 23 · 8 Dhul Hijjah · Yawm al-Tarwiyah · Mina",
+     "text": "Enter Ihram for Hajj and move to the air-conditioned Mina tents. Pray Dhuhr to Fajr in Mina following the Sunnah.",
+     "items": [
+      [
+       "campground",
+       "AC tents in Mina"
+      ]
+     ],
+     "meals": "Full board",
+     "stay": "Mina tents"
+    },
+    {
+     "title": "Day 24 · 9 Dhul Hijjah · Day of Arafat · Muzdalifah",
+     "text": "Wuquf at Arafat from noon until sunset — the heart of Hajj — then proceed to Muzdalifah, pray Maghrib and Isha combined, collect pebbles and spend the night under the open sky.",
+     "items": [
+      [
+       "location-dot",
+       "Wuquf at Arafat"
+      ],
+      [
+       "moon",
+       "Night at Muzdalifah"
+      ]
+     ],
+     "meals": "Full board",
+     "stay": "Arafat camp / Muzdalifah"
+    },
+    {
+     "title": "Day 25 · 10 Dhul Hijjah · Eid al-Adha",
+     "text": "Rami of Jamarat al-Aqabah, Qurbani through the official coupon system, Halq, then Tawaf al-Ifadah and Sa’i in Makkah.",
+     "items": [
+      [
+       "hand",
+       "Rami at Jamarat"
+      ],
+      [
+       "kaaba",
+       "Tawaf al-Ifadah & Sa’i"
+      ]
+     ],
+     "meals": "Full board",
+     "stay": "Mina tents"
+    },
+    {
+     "title": "Days 26–27 · Days of Tashreeq",
+     "text": "Stone all three Jamarat each day, with the group leader timing every Rami for safety, and return to Makkah after Rami on the 12th or 13th.",
+     "items": [
+      [
+       "hand",
+       "Daily Rami of the three Jamarat"
+      ],
+      [
+       "campground",
+       "Mina tents"
+      ]
+     ],
+     "meals": "Full board",
+     "stay": "Mina tents / Makkah hotel"
+    },
+    {
+     "title": "Days 28–31 · Makkah after Hajj · Tawaf al-Wida",
+     "text": "Rest and recover, more prayers in the Haram, and the farewell Tawaf before leaving Makkah.",
+     "items": [
+      [
+       "kaaba",
+       "Tawaf al-Wida"
+      ],
+      [
+       "bag-shopping",
+       "Free time for dates & gifts"
+      ]
+     ],
+     "meals": "Full board",
+     "stay": "Hotel, Makkah"
+    },
+    {
+     "title": "Days 32–39 · Madinah",
+     "text": "Travel to Madinah by coach or Haramain train and stay near Masjid an-Nabawi. Salam at the Rawdah (Nusuk appointment), prayers in the Prophet’s Mosque ﷺ, Jannat al-Baqi, and Ziyarat of Quba, Uhud, al-Qiblatain and the Seven Mosques.",
+     "items": [
+      [
+       "train",
+       "Coach / train Makkah → Madinah"
+      ],
+      [
+       "mosque",
+       "Masjid an-Nabawi & Rawdah"
+      ],
+      [
+       "mountain",
+       "Madinah Ziyarat"
+      ]
+     ],
+     "meals": "Full board",
+     "stay": "Hotel, Madinah"
+    },
+    {
+     "title": "Day 40 · Return to Mumbai",
+     "text": "Transfer to Madinah airport for the flight home with Zamzam as per airline allowance.",
+     "items": [
+      [
+       "plane",
+       "Flight Madinah → Mumbai"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Makkah",
+     "Hotel in Aziziyah or near the Haram (category as per final package)"
+    ],
+    [
+     "Mina",
+     "Air-conditioned tents with sofa-beds"
+    ],
+    [
+     "Madinah",
+     "Hotel within walking distance of Masjid an-Nabawi"
+    ]
+   ],
+   "inclusions": [
+    "Return economy airfare",
+    "Hajj visa through an approved private Hajj group operator",
+    "Accommodation in Makkah, Mina, Arafat and Madinah",
+    "Full-board Indian meals",
+    "All transfers by AC coach (Mashair train where allotted)",
+    "Dedicated Muallim and Indian group leader",
+    "Pre-departure training and Hajj kit"
+   ],
+   "exclusions": [
+    "Qurbani coupon (paid at actual cost)",
+    "Personal expenses",
+    "Room upgrades",
+    "Any increase in Saudi government or airline charges"
+   ],
+   "bestTime": "Hajj 1448 AH — expected around mid-May 2027 (subject to moon sighting)",
+   "faqs": [
+    [
+     "When should I register for Hajj 2027?",
+     "As early as possible. Private Hajj seats depend on the quota allotted by the Ministry of Minority Affairs, and registration usually opens several months before Hajj."
+    ],
+    [
+     "What is included in the Hajj package price?",
+     "Flights, Hajj visa, accommodation in Makkah, Mina, Arafat and Madinah, full-board meals, transfers and guidance. Qurbani is paid at actual cost."
+    ]
+   ],
+   "duration_note": "40 Days · Makkah, Mina, Arafat & Madinah"
+  },
+  {
+   "slug": "mesmerizing-kashmir",
+   "group": "family",
+   "title": "Mesmerizing Kashmir",
+   "category": "Family · Domestic · Jammu & Kashmir",
+   "country": "India",
+   "cities": [
+    "Pahalgam",
+    "Gulmarg",
+    "Srinagar"
+   ],
+   "nights": 5,
+   "days": 6,
+   "price": 19500,
+   "pax": "Family",
+   "badge": "",
+   "image": "photo-1595815771614-ade9d652a65d",
+   "imageAlt": "Houseboat on Dal Lake with snow-capped mountains, Srinagar",
+   "gallery": [
+    [
+     "photo-1661747340818-df15f186554e",
+     "River valley in Pahalgam"
+    ],
+    [
+     "photo-1568889753852-196c487a536e",
+     "Gulmarg Gondola cable car"
+    ],
+    [
+     "photo-1569852837213-00d97a707a83",
+     "Shikaras on Dal Lake"
+    ],
+    [
+     "photo-1690650025133-f25598a4de68",
+     "Wildflower meadow in Kashmir"
+    ]
+   ],
+   "summary": "5 Nights / 6 Days — Pahalgam (2) – Gulmarg (1) – Srinagar (2) with breakfast & dinner, all sightseeing, transportation, accommodation and a tour guide.",
+   "overview": "Six days through the three classic corners of the Kashmir valley: the Lidder river valleys of Pahalgam, the meadows and Gondola of Gulmarg, and Srinagar’s Mughal Gardens and Dal Lake. A private vehicle and guide stay with you throughout, with breakfast and dinner every day.",
+   "highlights": [
+    "Betaab Valley, Aru Valley & Chandanwari, Pahalgam",
+    "Saffron fields of Pampore and Awantipora ruins",
+    "Gulmarg meadows and the Gondola (ticket extra)",
+    "Shikara ride on Dal Lake",
+    "Mughal Gardens — Nishat, Shalimar & Chashme Shahi",
+    "Hazratbal Shrine"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Srinagar → Pahalgam",
+     "text": "Arrive at Srinagar airport and drive about 3 hours to Pahalgam, stopping at the saffron fields of Pampore and the Awantipora ruins. Evening walk along the Lidder river.",
+     "items": [
+      [
+       "plane",
+       "Arrive Srinagar (SXR)"
+      ],
+      [
+       "car",
+       "Drive Srinagar → Pahalgam"
+      ],
+      [
+       "seedling",
+       "Pampore saffron fields"
+      ]
+     ],
+     "meals": "Dinner",
+     "stay": "Hotel, Pahalgam"
+    },
+    {
+     "title": "Pahalgam Valleys",
+     "text": "Full day in Pahalgam: Betaab Valley, Aru Valley and Chandanwari (local union cab, paid directly). Optional pony ride to Baisaran meadow.",
+     "items": [
+      [
+       "mountain",
+       "Betaab, Aru & Chandanwari"
+      ],
+      [
+       "horse",
+       "Optional pony ride to Baisaran"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Pahalgam"
+    },
+    {
+     "title": "Pahalgam → Gulmarg",
+     "text": "Drive to Gulmarg, the ‘meadow of flowers’. Afternoon free to ride the Gulmarg Gondola (Phase 1/2, ticket extra) or enjoy snow activities in season.",
+     "items": [
+      [
+       "car",
+       "Drive Pahalgam → Gulmarg"
+      ],
+      [
+       "cable-car",
+       "Gulmarg Gondola (optional)"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Gulmarg"
+    },
+    {
+     "title": "Gulmarg → Srinagar · Shikara Ride",
+     "text": "Drive back to Srinagar. Check in and take a shikara ride on Dal Lake past the floating gardens and Char Chinar.",
+     "items": [
+      [
+       "car",
+       "Drive Gulmarg → Srinagar"
+      ],
+      [
+       "ship",
+       "Shikara ride on Dal Lake"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel / houseboat, Srinagar"
+    },
+    {
+     "title": "Srinagar · Mughal Gardens",
+     "text": "Visit Nishat Bagh, Shalimar Bagh and Chashme Shahi, and the Hazratbal Shrine. Evening free for shopping for dry fruits, pashmina and handicrafts.",
+     "items": [
+      [
+       "leaf",
+       "Mughal Gardens tour"
+      ],
+      [
+       "mosque",
+       "Hazratbal Shrine"
+      ],
+      [
+       "bag-shopping",
+       "Local market"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel / houseboat, Srinagar"
+    },
+    {
+     "title": "Depart Srinagar",
+     "text": "Transfer to Srinagar airport for your flight home.",
+     "items": [
+      [
+       "car",
+       "Hotel-to-airport transfer"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Pahalgam",
+     "3★ hotel or similar"
+    ],
+    [
+     "Gulmarg",
+     "3★ hotel or similar"
+    ],
+    [
+     "Srinagar",
+     "3★ hotel / deluxe houseboat or similar"
+    ]
+   ],
+   "inclusions": [
+    "Accommodation",
+    "Breakfast + Dinner",
+    "All sightseeing as per itinerary",
+    "Transportation (private vehicle)",
+    "Tour guide",
+    "Shikara ride (1 hour)"
+   ],
+   "exclusions": [
+    "Airfare / train fare to the starting point",
+    "Lunches / meals not mentioned",
+    "Entry tickets, camera fees and adventure activities unless mentioned",
+    "Personal expenses, tips and porterage",
+    "GST as applicable",
+    "Anything not listed under inclusions",
+    "Local union cabs in Pahalgam and Gondola tickets"
+   ],
+   "bestTime": "March to October for meadows; December to February for snow",
+   "faqs": [
+    [
+     "Is airfare included in Mesmerizing Kashmir?",
+     "No. The package covers stay, meals, sightseeing, transport and a guide. We book flights to Srinagar separately at the best available fare."
+    ],
+    [
+     "When is snow in Gulmarg?",
+     "Usually December to March; Gondola Phase 2 often has snow until May."
+    ]
+   ],
+   "priceNote": "per person, starting price",
+   "featured": true
+  },
+  {
+   "slug": "magnificent-kerala",
+   "group": "family",
+   "title": "Magnificent Kerala",
+   "category": "Family · Domestic · Kerala",
+   "country": "India",
+   "cities": [
+    "Munnar",
+    "Thekkady",
+    "Alleppey",
+    "Kovalam",
+    "Cochin"
+   ],
+   "nights": 7,
+   "days": 8,
+   "price": 32666,
+   "pax": "Family",
+   "badge": "",
+   "image": "photo-1593693411515-c20261bcad6e",
+   "imageAlt": "Traditional houseboat on the palm-lined backwaters of Alleppey",
+   "gallery": [
+    [
+     "photo-1491497895121-1334fc14d8c9",
+     "Misty tea gardens of Munnar"
+    ],
+    [
+     "photo-1629813538702-64c925934e19",
+     "Tea plantations at sunset"
+    ],
+    [
+     "photo-1586030138336-4a854c6ddb5f",
+     "Lighthouse at Kovalam beach"
+    ],
+    [
+     "photo-1590123732197-e7079d2ceb89",
+     "Chinese fishing nets, Fort Kochi"
+    ]
+   ],
+   "summary": "7 Nights / 8 Days — Munnar (2) – Thekkady (1) – Alleppey (1) – Kovalam (2) – Cochin (1) with accommodation, meals, all sightseeing, transportation and a houseboat in Alleppey.",
+   "overview": "The complete Kerala circuit in eight days: tea-covered hills in Munnar, spice gardens and wildlife in Thekkady, a night aboard a private houseboat on the Alleppey backwaters, beach days at Kovalam and the old port town of Cochin.",
+   "highlights": [
+    "Tea gardens, Mattupetty Dam & Eravikulam National Park, Munnar",
+    "Spice plantation tour and Periyar Lake, Thekkady",
+    "Overnight private houseboat cruise in Alleppey",
+    "Kovalam lighthouse beach & Padmanabhaswamy Temple (outside)",
+    "Fort Kochi, Chinese fishing nets & Jew Town"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Cochin → Munnar",
+     "text": "Arrive at Cochin airport and drive about 4 hours into the hills, stopping at the Cheeyappara and Valara waterfalls.",
+     "items": [
+      [
+       "plane",
+       "Arrive Cochin (COK)"
+      ],
+      [
+       "car",
+       "Drive Cochin → Munnar"
+      ],
+      [
+       "water",
+       "Cheeyappara waterfalls"
+      ]
+     ],
+     "meals": "Dinner",
+     "stay": "Hotel, Munnar"
+    },
+    {
+     "title": "Munnar Sightseeing",
+     "text": "Eravikulam National Park (home of the Nilgiri tahr), the Tea Museum, Mattupetty Dam, Echo Point and the rolling tea estates.",
+     "items": [
+      [
+       "mountain",
+       "Eravikulam National Park"
+      ],
+      [
+       "leaf",
+       "Tea Museum & tea gardens"
+      ],
+      [
+       "water",
+       "Mattupetty Dam & Echo Point"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Munnar"
+    },
+    {
+     "title": "Munnar → Thekkady",
+     "text": "Drive to Thekkady. Visit a spice plantation and, in the evening, see a Kathakali or Kalaripayattu show (optional).",
+     "items": [
+      [
+       "car",
+       "Drive Munnar → Thekkady"
+      ],
+      [
+       "seedling",
+       "Spice plantation tour"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Thekkady"
+    },
+    {
+     "title": "Thekkady → Alleppey · Houseboat",
+     "text": "Optional boat ride on Periyar Lake, then drive to Alleppey and board your private houseboat for a cruise through the backwaters and village canals. Overnight on board.",
+     "items": [
+      [
+       "ship",
+       "Private houseboat cruise"
+      ],
+      [
+       "utensils",
+       "Kerala meals on board"
+      ]
+     ],
+     "meals": "Breakfast, Lunch, Dinner",
+     "stay": "Houseboat, Alleppey"
+    },
+    {
+     "title": "Alleppey → Kovalam",
+     "text": "Disembark after breakfast and drive to Kovalam. Evening on Lighthouse Beach.",
+     "items": [
+      [
+       "car",
+       "Drive Alleppey → Kovalam"
+      ],
+      [
+       "umbrella-beach",
+       "Lighthouse Beach"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Kovalam"
+    },
+    {
+     "title": "Kovalam & Trivandrum",
+     "text": "Visit Trivandrum: Padmanabhaswamy Temple (outside view), Napier Museum and the Poovar backwaters (optional boat ride). Rest of the day at the beach.",
+     "items": [
+      [
+       "landmark",
+       "Trivandrum city tour"
+      ],
+      [
+       "ship",
+       "Optional Poovar backwater cruise"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Kovalam"
+    },
+    {
+     "title": "Kovalam → Cochin",
+     "text": "Drive back to Cochin. Visit Fort Kochi, the Chinese fishing nets, St Francis Church, Mattancherry Palace and Jew Town.",
+     "items": [
+      [
+       "car",
+       "Drive Kovalam → Cochin"
+      ],
+      [
+       "landmark",
+       "Fort Kochi heritage walk"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Cochin"
+    },
+    {
+     "title": "Depart Cochin",
+     "text": "Transfer to Cochin airport for your flight home.",
+     "items": [
+      [
+       "car",
+       "Hotel-to-airport transfer"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Munnar",
+     "3★ hotel or similar"
+    ],
+    [
+     "Thekkady",
+     "3★ hotel or similar"
+    ],
+    [
+     "Alleppey",
+     "Private deluxe houseboat"
+    ],
+    [
+     "Kovalam",
+     "3★ hotel or similar"
+    ],
+    [
+     "Cochin",
+     "3★ hotel or similar"
+    ]
+   ],
+   "inclusions": [
+    "Accommodation",
+    "Meals (breakfast & dinner; all meals on the houseboat)",
+    "All sightseeing as per itinerary",
+    "Transportation (private AC vehicle)",
+    "Houseboat (Alleppey)"
+   ],
+   "exclusions": [
+    "Airfare / train fare to the starting point",
+    "Lunches / meals not mentioned",
+    "Entry tickets, camera fees and adventure activities unless mentioned",
+    "Personal expenses, tips and porterage",
+    "GST as applicable",
+    "Anything not listed under inclusions"
+   ],
+   "bestTime": "September to March; monsoon (June–August) for lush greenery",
+   "faqs": [
+    [
+     "Is the Alleppey houseboat private?",
+     "Yes — a private houseboat with a bedroom, crew and all meals on board for the overnight cruise."
+    ],
+    [
+     "Can we start the tour from Trivandrum?",
+     "Yes, we can reverse the route to start at Trivandrum and end at Cochin."
+    ]
+   ],
+   "priceNote": "per person, starting price",
+   "featured": true
+  },
+  {
+   "slug": "dubai-extravaganza",
+   "group": "family",
+   "title": "Dubai Extravaganza",
+   "category": "Family · International · UAE",
+   "country": "United Arab Emirates",
+   "cities": [
+    "Dubai",
+    "Ras Al Khaimah"
+   ],
+   "nights": 4,
+   "days": 5,
+   "price": 32990,
+   "pax": "Family",
+   "badge": "",
+   "image": "photo-1512453979798-5ea266f8880c",
+   "imageAlt": "Burj Khalifa above the Downtown Dubai skyline",
+   "gallery": [
+    [
+     "photo-1549944850-84e00be4203b",
+     "Camels on the dunes during a Dubai desert safari"
+    ],
+    [
+     "photo-1582120042072-d01e2fc8f3ea",
+     "Dhow cruising past Dubai Marina"
+    ],
+    [
+     "photo-1542878447-e2b6df2526fa",
+     "Mountain road to Jebel Jais, Ras Al Khaimah"
+    ],
+    [
+     "photo-1608991156162-3c55b3cf05d3",
+     "Dubai skyline at night"
+    ]
+   ],
+   "summary": "4 Nights / 5 Days — Dubai (2N) – Ras Al Khaimah (2N) with accommodation, breakfast, all sightseeing, desert safari, cruise dinner and transportation.",
+   "overview": "Two nights of Dubai’s big sights — the city tour, a desert safari and a dhow cruise dinner — followed by two relaxed nights by the beach in Ras Al Khaimah, with the mountains of Jebel Jais an hour away.",
+   "highlights": [
+    "Dubai city tour with Burj Khalifa photo stop",
+    "Evening desert safari with BBQ dinner",
+    "Dhow cruise dinner",
+    "Beach resort stay in Ras Al Khaimah",
+    "Jebel Jais mountain drive & viewing deck"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Dubai · Dhow Cruise Dinner",
+     "text": "Arrive at Dubai airport and transfer to the hotel. In the evening, enjoy a dhow cruise with dinner along Dubai Creek or the Marina.",
+     "items": [
+      [
+       "plane",
+       "Arrive Dubai (DXB)"
+      ],
+      [
+       "car",
+       "Airport-to-hotel transfer"
+      ],
+      [
+       "ship",
+       "Dhow cruise with dinner"
+      ]
+     ],
+     "meals": "Dinner",
+     "stay": "Hotel, Dubai"
+    },
+    {
+     "title": "Dubai City Tour · Desert Safari",
+     "text": "Half-day city tour: Jumeirah Mosque, Burj Al Arab, Palm Jumeirah and Atlantis, Dubai Frame and the Gold & Spice Souks. Afternoon 4×4 desert safari with dune bashing, camel ride and BBQ dinner.",
+     "items": [
+      [
+       "bus",
+       "Dubai city tour"
+      ],
+      [
+       "car-side",
+       "Desert safari with BBQ dinner"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Dubai"
+    },
+    {
+     "title": "Dubai → Ras Al Khaimah",
+     "text": "Drive about an hour to Ras Al Khaimah and check in to a beach resort. Afternoon at leisure.",
+     "items": [
+      [
+       "car",
+       "Transfer Dubai → Ras Al Khaimah"
+      ],
+      [
+       "umbrella-beach",
+       "Beach resort"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Resort, Ras Al Khaimah"
+    },
+    {
+     "title": "Jebel Jais · Leisure",
+     "text": "Drive up Jebel Jais, the UAE’s highest peak, for views from the viewing deck (Jais Flight zipline optional). Rest of the day at the resort.",
+     "items": [
+      [
+       "mountain",
+       "Jebel Jais viewing deck"
+      ],
+      [
+       "ticket",
+       "Optional Jais Flight zipline"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Resort, Ras Al Khaimah"
+    },
+    {
+     "title": "Depart",
+     "text": "Transfer to Dubai airport for your flight home.",
+     "items": [
+      [
+       "car",
+       "Resort-to-airport transfer"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Dubai",
+     "4★ hotel or similar"
+    ],
+    [
+     "Ras Al Khaimah",
+     "4★ beach resort or similar"
+    ]
+   ],
+   "inclusions": [
+    "Accommodation",
+    "Daily breakfast",
+    "All sightseeing as per itinerary",
+    "Desert safari with BBQ dinner",
+    "Dhow cruise dinner",
+    "Transportation & airport transfers"
+   ],
+   "exclusions": [
+    "Airfare (we quote the best fare for your dates separately)",
+    "Visa fees unless mentioned",
+    "Travel insurance",
+    "Lunches / meals not mentioned",
+    "Personal expenses, tips and porterage",
+    "Anything not listed under inclusions",
+    "Dubai Tourism Dirham fee (paid at hotel)"
+   ],
+   "bestTime": "November to March",
+   "faqs": [
+    [
+     "Is the UAE visa included?",
+     "Visa is not part of the starting price; we process the UAE tourist visa for you at the prevailing fee."
+    ],
+    [
+     "How far is Ras Al Khaimah from Dubai?",
+     "About 60–75 minutes by road."
+    ]
+   ],
+   "priceNote": "per person, starting price",
+   "featured": true
+  },
+  {
+   "slug": "azerbaijan-tour",
+   "group": "family",
+   "title": "Azerbaijan Tour",
+   "category": "Family · International · Caucasus",
+   "country": "Azerbaijan",
+   "cities": [
+    "Baku",
+    "Shahdag",
+    "Gabala"
+   ],
+   "nights": 5,
+   "days": 6,
+   "price": 45000,
+   "pax": "Family",
+   "badge": "",
+   "image": "photo-1596306499398-8d88944a5ec4",
+   "imageAlt": "Baku skyline under a blue sky",
+   "gallery": [
+    [
+     "photo-1596306499300-0b7b1689b9f6",
+     "Baku Flame Towers at night"
+    ],
+    [
+     "photo-1674857977971-131936c7b5ea",
+     "Baku seen across the Caspian Sea"
+    ],
+    [
+     "photo-1785062381905-72152fac1739",
+     "Mountain river in the Caucasus"
+    ],
+    [
+     "photo-1607207685777-0986a1eede0e",
+     "Baku waterfront"
+    ]
+   ],
+   "summary": "5 Nights / 6 Days — Shahdag – Gabala – Baku with an English-speaking driver, breakfast, transportation, all sightseeing and tickets for Fire Temple, Burning Mountain, Gobustan Museum, mud-volcano taxi and cable cars.",
+   "overview": "Old-world Baku meets the green Caucasus. Explore the walled Old City and the Flame Towers, see Azerbaijan’s ‘land of fire’ at Yanar Dag and the Ateshgah Fire Temple, the rock art and mud volcanoes of Gobustan, then head to the mountain resorts of Shahdag and Gabala for cable-car rides.",
+   "highlights": [
+    "Baku Old City (Icherisheher) & Maiden Tower",
+    "Flame Towers and Baku Boulevard",
+    "Ateshgah Fire Temple & Yanar Dag (Burning Mountain)",
+    "Gobustan rock art museum & mud volcanoes",
+    "Cable cars at Shahdag and Tufandag (Gabala)",
+    "Nohur Lake, Gabala"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Baku · Night Tour",
+     "text": "Meet your English-speaking driver at Baku airport and transfer to the hotel. Evening drive past the illuminated Flame Towers and along Baku Boulevard.",
+     "items": [
+      [
+       "plane",
+       "Arrive Baku (GYD)"
+      ],
+      [
+       "car",
+       "Private transfer"
+      ],
+      [
+       "camera",
+       "Flame Towers & Boulevard"
+      ]
+     ],
+     "meals": "—",
+     "stay": "Hotel, Baku"
+    },
+    {
+     "title": "Baku City Tour",
+     "text": "Walk the UNESCO-listed Old City: Maiden Tower, Palace of the Shirvanshahs, then Highland Park viewpoint and the Heydar Aliyev Center (outside).",
+     "items": [
+      [
+       "landmark",
+       "Old City & Maiden Tower"
+      ],
+      [
+       "camera",
+       "Highland Park viewpoint"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Baku"
+    },
+    {
+     "title": "Gobustan · Mud Volcanoes · Fire Temple",
+     "text": "Drive to Gobustan for its prehistoric rock carvings and museum, ride a local taxi up to the mud volcanoes, then visit the Ateshgah Fire Temple and Yanar Dag at sunset.",
+     "items": [
+      [
+       "dungeon",
+       "Gobustan Museum"
+      ],
+      [
+       "car-side",
+       "Mud volcano taxi"
+      ],
+      [
+       "fire",
+       "Ateshgah & Yanar Dag"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Baku"
+    },
+    {
+     "title": "Baku → Shahdag",
+     "text": "Drive north into the Caucasus to Shahdag mountain resort. Ride the cable car for alpine views (skiing in winter).",
+     "items": [
+      [
+       "car",
+       "Drive Baku → Shahdag"
+      ],
+      [
+       "cable-car",
+       "Shahdag cable car"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Shahdag"
+    },
+    {
+     "title": "Shahdag → Gabala",
+     "text": "Drive to Gabala. Ride the Tufandag cable car and visit Nohur Lake and the Seven Beauties waterfall.",
+     "items": [
+      [
+       "car",
+       "Drive Shahdag → Gabala"
+      ],
+      [
+       "cable-car",
+       "Tufandag cable car"
+      ],
+      [
+       "water",
+       "Nohur Lake"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Gabala"
+    },
+    {
+     "title": "Gabala → Baku · Depart",
+     "text": "Drive back to Baku airport (about 3.5 hours) for your flight home.",
+     "items": [
+      [
+       "car",
+       "Drive Gabala → Baku airport"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Baku",
+     "4★ hotel or similar"
+    ],
+    [
+     "Shahdag",
+     "4★ mountain hotel or similar"
+    ],
+    [
+     "Gabala",
+     "4★ hotel or similar"
+    ]
+   ],
+   "inclusions": [
+    "English-speaking driver",
+    "Daily breakfast",
+    "Transportation",
+    "All sightseeing as per itinerary",
+    "Tickets: Fire Temple, Burning Mountain, Gobustan Museum, mud-volcano taxi & cable cars",
+    "Accommodation"
+   ],
+   "exclusions": [
+    "Airfare (we quote the best fare for your dates separately)",
+    "Visa fees unless mentioned",
+    "Travel insurance",
+    "Lunches / meals not mentioned",
+    "Personal expenses, tips and porterage",
+    "Anything not listed under inclusions"
+   ],
+   "bestTime": "April to October; December to March for snow",
+   "faqs": [
+    [
+     "Do Indians need a visa for Azerbaijan?",
+     "Yes — an e-visa (ASAN Visa), usually issued within a few working days. We apply for you."
+    ],
+    [
+     "Is a guide included?",
+     "An English-speaking driver accompanies you throughout; a separate licensed guide can be added."
+    ]
+   ],
+   "priceNote": "per person, starting price"
+  },
+  {
+   "slug": "best-of-thailand",
+   "group": "family",
+   "title": "Best of Thailand",
+   "category": "Family · International · Thailand",
+   "country": "Thailand",
+   "cities": [
+    "Phuket",
+    "Krabi",
+    "Bangkok"
+   ],
+   "nights": 5,
+   "days": 6,
+   "price": 29990,
+   "pax": "Family",
+   "badge": "",
+   "image": "photo-1686238349945-82074ce9f02f",
+   "imageAlt": "Longtail boats in Pileh Lagoon surrounded by limestone cliffs",
+   "gallery": [
+    [
+     "photo-1589394815804-964ed0be2eb5",
+     "Boats near the mountains, Phuket"
+    ],
+    [
+     "photo-1538475711279-0373b6bc754e",
+     "Aerial view of an island near Krabi"
+    ],
+    [
+     "photo-1613672803979-a6edfc5a179b",
+     "Wat Arun on the Chao Phraya, Bangkok"
+    ],
+    [
+     "photo-1562602833-0f4ab2fc46e3",
+     "Stupas at Wat Pho, Bangkok"
+    ]
+   ],
+   "summary": "5 Nights / 6 Days — Phuket (2) – Krabi (2) – Bangkok (1) with accommodation, breakfast, Bangkok temple tour, all sightseeing and transportation.",
+   "overview": "Island-hop Thailand’s Andaman coast and finish in Bangkok: Phi Phi’s lagoons from Phuket, the four-island tour from Krabi, and Bangkok’s golden temples.",
+   "highlights": [
+    "Phi Phi Island tour by speedboat with lunch",
+    "Phuket city tour & Big Buddha",
+    "Krabi 4-island tour",
+    "Bangkok temple tour — Golden Buddha & Marble Temple",
+    "Free time for Bangkok shopping"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Phuket",
+     "text": "Arrive at Phuket airport and transfer to the hotel. Evening free at Patong Beach and Bangla Road.",
+     "items": [
+      [
+       "plane",
+       "Arrive Phuket (HKT)"
+      ],
+      [
+       "car",
+       "Airport-to-hotel transfer"
+      ]
+     ],
+     "meals": "—",
+     "stay": "Hotel, Phuket"
+    },
+    {
+     "title": "Phi Phi Island Tour",
+     "text": "Full-day speedboat tour to Phi Phi Islands — Maya Bay, Pileh Lagoon, Viking Cave and snorkelling stops, with lunch.",
+     "items": [
+      [
+       "ship",
+       "Phi Phi speedboat tour"
+      ],
+      [
+       "utensils",
+       "Lunch on tour"
+      ]
+     ],
+     "meals": "Breakfast, Lunch",
+     "stay": "Hotel, Phuket"
+    },
+    {
+     "title": "Phuket → Krabi",
+     "text": "Morning Phuket city tour with the Big Buddha viewpoint, then transfer to Krabi (about 3 hours). Evening at Ao Nang beach.",
+     "items": [
+      [
+       "landmark",
+       "Phuket city tour & Big Buddha"
+      ],
+      [
+       "car",
+       "Transfer Phuket → Krabi"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Krabi"
+    },
+    {
+     "title": "Krabi 4-Island Tour",
+     "text": "Longtail or speedboat to Phra Nang Cave Beach, Chicken Island, Tup Island and Poda Island, with lunch.",
+     "items": [
+      [
+       "ship",
+       "4-island tour"
+      ],
+      [
+       "utensils",
+       "Lunch on tour"
+      ]
+     ],
+     "meals": "Breakfast, Lunch",
+     "stay": "Hotel, Krabi"
+    },
+    {
+     "title": "Fly Krabi → Bangkok · Temple Tour",
+     "text": "Fly to Bangkok (domestic airfare extra). Afternoon temple tour of Wat Traimit (Golden Buddha) and Wat Benchamabophit (Marble Temple).",
+     "items": [
+      [
+       "plane",
+       "Flight Krabi → Bangkok"
+      ],
+      [
+       "place-of-worship",
+       "Bangkok temple tour"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Bangkok"
+    },
+    {
+     "title": "Depart Bangkok",
+     "text": "Free time for shopping at Pratunam or MBK, then transfer to the airport.",
+     "items": [
+      [
+       "bag-shopping",
+       "Shopping time"
+      ],
+      [
+       "car",
+       "Hotel-to-airport transfer"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Phuket",
+     "3★/4★ hotel or similar"
+    ],
+    [
+     "Krabi",
+     "3★/4★ hotel or similar"
+    ],
+    [
+     "Bangkok",
+     "3★/4★ hotel or similar"
+    ]
+   ],
+   "inclusions": [
+    "Accommodation",
+    "Daily breakfast",
+    "All sightseeing as per itinerary",
+    "Transportation & airport transfers",
+    "Bangkok temple tour",
+    "Phi Phi & Krabi island tours with lunch"
+   ],
+   "exclusions": [
+    "Airfare (we quote the best fare for your dates separately)",
+    "Visa fees unless mentioned",
+    "Travel insurance",
+    "Lunches / meals not mentioned",
+    "Personal expenses, tips and porterage",
+    "Anything not listed under inclusions",
+    "Krabi → Bangkok domestic flight",
+    "National park fees on island tours"
+   ],
+   "bestTime": "November to April",
+   "faqs": [
+    [
+     "Do Indian passport holders need a visa for Thailand?",
+     "Visa rules for Indians have changed several times; we confirm the current visa-exempt / e-visa rules and handle the paperwork."
+    ],
+    [
+     "Is airfare included?",
+     "No — the price covers stay, breakfast, sightseeing and transfers. Flights are quoted separately at the best fare for your dates."
+    ]
+   ],
+   "priceNote": "per person, starting price"
+  },
+  {
+   "slug": "essential-thailand",
+   "group": "family",
+   "title": "Essential Thailand",
+   "category": "Family · International · Thailand",
+   "country": "Thailand",
+   "cities": [
+    "Pattaya",
+    "Bangkok"
+   ],
+   "nights": 4,
+   "days": 5,
+   "price": 18990,
+   "pax": "Family",
+   "badge": "",
+   "image": "photo-1599851245208-c1e43c053710",
+   "imageAlt": "Boats in Pattaya bay with the city behind",
+   "gallery": [
+    [
+     "photo-1625492206717-61c584a8b11e",
+     "Aerial view of Pattaya beach"
+    ],
+    [
+     "photo-1563492065599-3520f775eeed",
+     "Temple roofs in Bangkok"
+    ],
+    [
+     "photo-1613672803979-a6edfc5a179b",
+     "Wat Arun, Bangkok"
+    ],
+    [
+     "photo-1612161330631-9186c513de7f",
+     "Bangkok at night"
+    ]
+   ],
+   "summary": "4 Nights / 5 Days — Pattaya (2) – Bangkok (2) with accommodation, breakfast, Bangkok temple tour, all sightseeing and transportation.",
+   "overview": "Thailand’s most popular short break: two nights in Pattaya with the Coral Island tour and Alcazar show, and two nights in Bangkok with the temple tour and Safari World.",
+   "highlights": [
+    "Coral Island (Koh Larn) tour by speedboat",
+    "Alcazar cabaret show, Pattaya",
+    "Bangkok temple tour — Golden Buddha & Marble Temple",
+    "Safari World & Marine Park with lunch",
+    "Shopping at Pratunam & MBK"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Bangkok → Pattaya",
+     "text": "Arrive at Bangkok airport and transfer to Pattaya (about 2 hours). Evening Alcazar show.",
+     "items": [
+      [
+       "plane",
+       "Arrive Bangkok (BKK)"
+      ],
+      [
+       "car",
+       "Transfer to Pattaya"
+      ],
+      [
+       "ticket",
+       "Alcazar show"
+      ]
+     ],
+     "meals": "—",
+     "stay": "Hotel, Pattaya"
+    },
+    {
+     "title": "Coral Island Tour",
+     "text": "Speedboat to Coral Island for beach time and optional water sports (parasailing, sea walk).",
+     "items": [
+      [
+       "ship",
+       "Coral Island speedboat tour"
+      ],
+      [
+       "umbrella-beach",
+       "Beach time"
+      ]
+     ],
+     "meals": "Breakfast, Lunch",
+     "stay": "Hotel, Pattaya"
+    },
+    {
+     "title": "Pattaya → Bangkok · Temple Tour",
+     "text": "Drive to Bangkok. Afternoon temple tour of the Golden Buddha and Marble Temple.",
+     "items": [
+      [
+       "car",
+       "Transfer Pattaya → Bangkok"
+      ],
+      [
+       "place-of-worship",
+       "Bangkok temple tour"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Bangkok"
+    },
+    {
+     "title": "Safari World & Marine Park",
+     "text": "Full day at Safari World and Marine Park with shows and lunch.",
+     "items": [
+      [
+       "paw",
+       "Safari World & Marine Park"
+      ],
+      [
+       "utensils",
+       "Lunch"
+      ]
+     ],
+     "meals": "Breakfast, Lunch",
+     "stay": "Hotel, Bangkok"
+    },
+    {
+     "title": "Depart Bangkok",
+     "text": "Free time for shopping, then transfer to the airport.",
+     "items": [
+      [
+       "car",
+       "Hotel-to-airport transfer"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Pattaya",
+     "3★ hotel or similar"
+    ],
+    [
+     "Bangkok",
+     "3★ hotel or similar"
+    ]
+   ],
+   "inclusions": [
+    "Accommodation",
+    "Daily breakfast",
+    "All sightseeing as per itinerary",
+    "Transportation & airport transfers",
+    "Bangkok temple tour",
+    "Coral Island tour, Alcazar show & Safari World"
+   ],
+   "exclusions": [
+    "Airfare (we quote the best fare for your dates separately)",
+    "Visa fees unless mentioned",
+    "Travel insurance",
+    "Lunches / meals not mentioned",
+    "Personal expenses, tips and porterage",
+    "Anything not listed under inclusions"
+   ],
+   "bestTime": "November to April",
+   "faqs": [
+    [
+     "Do Indian passport holders need a visa for Thailand?",
+     "Visa rules for Indians have changed several times; we confirm the current visa-exempt / e-visa rules and handle the paperwork."
+    ],
+    [
+     "Is airfare included?",
+     "No — the price covers stay, breakfast, sightseeing and transfers. Flights are quoted separately at the best fare for your dates."
+    ]
+   ],
+   "priceNote": "per person, starting price"
+  },
+  {
+   "slug": "highlights-of-turkey",
+   "group": "family",
+   "title": "Highlights of Turkey",
+   "category": "Family · International · Türkiye",
+   "country": "Türkiye",
+   "cities": [
+    "Istanbul",
+    "Cappadocia",
+    "Kuşadası"
+   ],
+   "nights": 7,
+   "days": 8,
+   "price": 118880,
+   "pax": "Family",
+   "badge": "",
+   "image": "photo-1541432901042-2d8bd64b4a9b",
+   "imageAlt": "Hot-air balloons over Cappadocia at sunrise",
+   "gallery": [
+    [
+     "photo-1623621534850-d325a1980c7e",
+     "Hagia Sophia, Istanbul"
+    ],
+    [
+     "photo-1655834684939-3bb0814b5bf3",
+     "Blue Mosque, Istanbul"
+    ],
+    [
+     "photo-1604156789095-3348604c0f43",
+     "Hot-air balloons over Cappadocia"
+    ],
+    [
+     "photo-1633773246110-442d2a731938",
+     "Istanbul across the Bosphorus"
+    ]
+   ],
+   "summary": "7 Nights / 8 Days — Istanbul (2) – Cappadocia (2) – Kusadasi (3) with accommodation, breakfast + lunch, all sightseeing and transportation.",
+   "overview": "Istanbul’s mosques and bazaars, Cappadocia’s fairy chimneys, and three nights on the Aegean at Kuşadası with day trips to ancient Ephesus and the white terraces of Pamukkale.",
+   "highlights": [
+    "Blue Mosque, Hagia Sophia, Topkapı Palace & Grand Bazaar",
+    "Bosphorus cruise",
+    "Göreme Open-Air Museum & underground city",
+    "Ephesus ancient city & House of the Virgin Mary",
+    "Pamukkale travertines day trip",
+    "Aegean beach time at Kuşadası"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Istanbul",
+     "text": "Arrive in Istanbul and transfer to the hotel. Evening free around Sultanahmet or Taksim Square.",
+     "items": [
+      [
+       "plane",
+       "Arrive Istanbul (IST)"
+      ],
+      [
+       "car",
+       "Airport-to-hotel transfer"
+      ]
+     ],
+     "meals": "—",
+     "stay": "Hotel, Istanbul"
+    },
+    {
+     "title": "Istanbul Old City Tour",
+     "text": "Blue Mosque, Hagia Sophia, the Hippodrome, Topkapı Palace and the Grand Bazaar, followed by a Bosphorus cruise between Europe and Asia.",
+     "items": [
+      [
+       "mosque",
+       "Blue Mosque & Hagia Sophia"
+      ],
+      [
+       "landmark",
+       "Topkapı Palace"
+      ],
+      [
+       "ship",
+       "Bosphorus cruise"
+      ]
+     ],
+     "meals": "Breakfast, Lunch",
+     "stay": "Hotel, Istanbul"
+    },
+    {
+     "title": "Fly to Cappadocia",
+     "text": "Domestic flight to Kayseri/Nevşehir. Visit Göreme Open-Air Museum, Uçhisar Castle and the fairy chimneys of Pasabag and Devrent valleys.",
+     "items": [
+      [
+       "plane",
+       "Domestic flight to Cappadocia"
+      ],
+      [
+       "mountain",
+       "Göreme & valleys"
+      ]
+     ],
+     "meals": "Breakfast, Lunch",
+     "stay": "Cave hotel, Cappadocia"
+    },
+    {
+     "title": "Cappadocia · Underground City",
+     "text": "Optional sunrise hot-air balloon ride. Explore an underground city, the pottery town of Avanos and Rose Valley at sunset.",
+     "items": [
+      [
+       "wind",
+       "Optional balloon ride"
+      ],
+      [
+       "dungeon",
+       "Underground city"
+      ],
+      [
+       "palette",
+       "Avanos pottery"
+      ]
+     ],
+     "meals": "Breakfast, Lunch",
+     "stay": "Cave hotel, Cappadocia"
+    },
+    {
+     "title": "Fly to İzmir → Kuşadası",
+     "text": "Fly to İzmir and transfer to Kuşadası on the Aegean coast. Evening at the marina.",
+     "items": [
+      [
+       "plane",
+       "Flight Cappadocia → İzmir"
+      ],
+      [
+       "car",
+       "Transfer to Kuşadası"
+      ]
+     ],
+     "meals": "Breakfast, Lunch",
+     "stay": "Hotel, Kuşadası"
+    },
+    {
+     "title": "Ephesus · House of the Virgin Mary",
+     "text": "Guided tour of Ephesus — the Library of Celsus and Great Theatre — and the House of the Virgin Mary.",
+     "items": [
+      [
+       "landmark",
+       "Ephesus ancient city"
+      ]
+     ],
+     "meals": "Breakfast, Lunch",
+     "stay": "Hotel, Kuşadası"
+    },
+    {
+     "title": "Pamukkale Day Trip",
+     "text": "Day trip to Pamukkale’s white travertine terraces and the ruins of Hierapolis.",
+     "items": [
+      [
+       "water",
+       "Pamukkale travertines & Hierapolis"
+      ]
+     ],
+     "meals": "Breakfast, Lunch",
+     "stay": "Hotel, Kuşadası"
+    },
+    {
+     "title": "Depart via İzmir",
+     "text": "Transfer to İzmir airport for your flight home via Istanbul.",
+     "items": [
+      [
+       "car",
+       "Hotel-to-airport transfer"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Istanbul",
+     "4★ hotel or similar"
+    ],
+    [
+     "Cappadocia",
+     "Cave hotel or similar"
+    ],
+    [
+     "Kuşadası",
+     "4★ hotel or similar"
+    ]
+   ],
+   "inclusions": [
+    "Accommodation",
+    "Breakfast + Lunch",
+    "All sightseeing as per itinerary",
+    "Transportation & internal flights as per itinerary"
+   ],
+   "exclusions": [
+    "Airfare (we quote the best fare for your dates separately)",
+    "Visa fees unless mentioned",
+    "Travel insurance",
+    "Lunches / meals not mentioned",
+    "Personal expenses, tips and porterage",
+    "Anything not listed under inclusions",
+    "Hot-air balloon ride"
+   ],
+   "bestTime": "April to June, September to November",
+   "faqs": [
+    [
+     "Do Indians need a visa for Türkiye?",
+     "Yes — an e-visa or sticker visa depending on your existing visas. We handle the application."
+    ],
+    [
+     "Is the Cappadocia hot-air balloon included?",
+     "It is optional and weather-dependent; we book it on request at the prevailing price."
+    ]
+   ],
+   "priceNote": "per person, starting price",
+   "featured": true
+  },
+  {
+   "slug": "turkey-delight",
+   "group": "family",
+   "title": "Turkey Delight",
+   "category": "Family · International · Türkiye",
+   "country": "Türkiye",
+   "cities": [
+    "Istanbul",
+    "Cappadocia",
+    "Antalya"
+   ],
+   "nights": 7,
+   "days": 8,
+   "price": 108990,
+   "pax": "Family",
+   "badge": "",
+   "image": "photo-1655834684939-3bb0814b5bf3",
+   "imageAlt": "Sultan Ahmed (Blue) Mosque, Istanbul",
+   "gallery": [
+    [
+     "photo-1623621534850-d325a1980c7e",
+     "Hagia Sophia, Istanbul"
+    ],
+    [
+     "photo-1604156789095-3348604c0f43",
+     "Balloons over Cappadocia"
+    ],
+    [
+     "photo-1648325129746-abcc1b872380",
+     "Antalya old harbour"
+    ],
+    [
+     "photo-1593238739364-18cfde30e522",
+     "Antalya beach"
+    ]
+   ],
+   "summary": "7 Nights / 8 Days — Istanbul (2) – Cappadocia (2) – Antalya (2) with accommodation, breakfast + lunch, all sightseeing and transportation.",
+   "overview": "Istanbul and Cappadocia, then the turquoise coast of Antalya — old-town harbour, waterfalls and Mediterranean beaches — ending with a final night back in Istanbul before your flight home.",
+   "highlights": [
+    "Blue Mosque, Hagia Sophia & Grand Bazaar",
+    "Bosphorus cruise",
+    "Cappadocia valleys & underground city",
+    "Antalya old town (Kaleiçi) & harbour",
+    "Düden Waterfalls & Konyaaltı Beach"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Istanbul",
+     "text": "Arrive in Istanbul and transfer to the hotel. Evening free around Sultanahmet or Taksim Square.",
+     "items": [
+      [
+       "plane",
+       "Arrive Istanbul (IST)"
+      ],
+      [
+       "car",
+       "Airport-to-hotel transfer"
+      ]
+     ],
+     "meals": "—",
+     "stay": "Hotel, Istanbul"
+    },
+    {
+     "title": "Istanbul Old City Tour",
+     "text": "Blue Mosque, Hagia Sophia, the Hippodrome, Topkapı Palace and the Grand Bazaar, followed by a Bosphorus cruise between Europe and Asia.",
+     "items": [
+      [
+       "mosque",
+       "Blue Mosque & Hagia Sophia"
+      ],
+      [
+       "landmark",
+       "Topkapı Palace"
+      ],
+      [
+       "ship",
+       "Bosphorus cruise"
+      ]
+     ],
+     "meals": "Breakfast, Lunch",
+     "stay": "Hotel, Istanbul"
+    },
+    {
+     "title": "Fly to Cappadocia",
+     "text": "Domestic flight to Kayseri/Nevşehir. Visit Göreme Open-Air Museum, Uçhisar Castle and the fairy chimneys of Pasabag and Devrent valleys.",
+     "items": [
+      [
+       "plane",
+       "Domestic flight to Cappadocia"
+      ],
+      [
+       "mountain",
+       "Göreme & valleys"
+      ]
+     ],
+     "meals": "Breakfast, Lunch",
+     "stay": "Cave hotel, Cappadocia"
+    },
+    {
+     "title": "Cappadocia · Underground City",
+     "text": "Optional sunrise hot-air balloon ride. Explore an underground city, the pottery town of Avanos and Rose Valley at sunset.",
+     "items": [
+      [
+       "wind",
+       "Optional balloon ride"
+      ],
+      [
+       "dungeon",
+       "Underground city"
+      ],
+      [
+       "palette",
+       "Avanos pottery"
+      ]
+     ],
+     "meals": "Breakfast, Lunch",
+     "stay": "Cave hotel, Cappadocia"
+    },
+    {
+     "title": "Fly to Antalya",
+     "text": "Fly to Antalya. Afternoon walk through Kaleiçi old town, Hadrian’s Gate and the old harbour.",
+     "items": [
+      [
+       "plane",
+       "Flight Cappadocia → Antalya"
+      ],
+      [
+       "landmark",
+       "Kaleiçi & Hadrian’s Gate"
+      ]
+     ],
+     "meals": "Breakfast, Lunch",
+     "stay": "Hotel, Antalya"
+    },
+    {
+     "title": "Antalya Waterfalls & Beach",
+     "text": "Visit the Düden Waterfalls and spend the afternoon at Konyaaltı Beach; optional cable car to Tünektepe.",
+     "items": [
+      [
+       "water",
+       "Düden Waterfalls"
+      ],
+      [
+       "umbrella-beach",
+       "Konyaaltı Beach"
+      ]
+     ],
+     "meals": "Breakfast, Lunch",
+     "stay": "Hotel, Antalya"
+    },
+    {
+     "title": "Fly Antalya → Istanbul",
+     "text": "Fly back to Istanbul. Evening free for shopping at İstiklal Avenue.",
+     "items": [
+      [
+       "plane",
+       "Flight Antalya → Istanbul"
+      ],
+      [
+       "bag-shopping",
+       "İstiklal Avenue"
+      ]
+     ],
+     "meals": "Breakfast, Lunch",
+     "stay": "Hotel, Istanbul"
+    },
+    {
+     "title": "Depart Istanbul",
+     "text": "Transfer to Istanbul airport for your flight home.",
+     "items": [
+      [
+       "car",
+       "Hotel-to-airport transfer"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Istanbul",
+     "4★ hotel or similar"
+    ],
+    [
+     "Cappadocia",
+     "Cave hotel or similar"
+    ],
+    [
+     "Antalya",
+     "4★ hotel or similar"
+    ]
+   ],
+   "inclusions": [
+    "Accommodation",
+    "Breakfast + Lunch",
+    "All sightseeing as per itinerary",
+    "Transportation & internal flights as per itinerary"
+   ],
+   "exclusions": [
+    "Airfare (we quote the best fare for your dates separately)",
+    "Visa fees unless mentioned",
+    "Travel insurance",
+    "Lunches / meals not mentioned",
+    "Personal expenses, tips and porterage",
+    "Anything not listed under inclusions",
+    "Hot-air balloon ride"
+   ],
+   "bestTime": "April to October",
+   "faqs": [
+    [
+     "Do Indians need a visa for Türkiye?",
+     "Yes — an e-visa or sticker visa depending on your existing visas. We handle the application."
+    ],
+    [
+     "Is the Cappadocia hot-air balloon included?",
+     "It is optional and weather-dependent; we book it on request at the prevailing price."
+    ]
+   ],
+   "priceNote": "per person, starting price"
+  },
+  {
+   "slug": "forts-and-palaces-of-rajasthan",
+   "group": "family",
+   "title": "Forts & Palaces of Rajasthan",
+   "category": "Family · Domestic · Rajasthan",
+   "country": "India",
+   "cities": [
+    "Jaipur",
+    "Ranthambore",
+    "Udaipur",
+    "Jodhpur",
+    "Jaisalmer"
+   ],
+   "nights": 9,
+   "days": 10,
+   "price": 36990,
+   "pax": "Family",
+   "badge": "",
+   "image": "photo-1477587458883-47145ed94245",
+   "imageAlt": "Hawa Mahal, Jaipur",
+   "gallery": [
+    [
+     "photo-1589901164570-f9de6556e1c1",
+     "City Palace on Lake Pichola, Udaipur"
+    ],
+    [
+     "photo-1586617356423-52763004deac",
+     "Tiger in Ranthambore"
+    ],
+    [
+     "photo-1569096610945-1a094be04c74",
+     "Mehrangarh Fort, Jodhpur"
+    ],
+    [
+     "photo-1709620220232-12ecd7ca33a8",
+     "Camel ride in the Thar desert, Jaisalmer"
+    ]
+   ],
+   "summary": "Jaipur – Ranthambore – Udaipur – Jodhpur – Jaisalmer with breakfast + dinner, all sightseeing, transportation, accommodation and a tour guide.",
+   "overview": "Rajasthan’s royal circuit: Jaipur’s Pink City forts, a tiger safari in Ranthambore, Udaipur’s lake palaces, Jodhpur’s blue city under Mehrangarh Fort, and a night of dunes and folk music in the Thar desert at Jaisalmer.",
+   "highlights": [
+    "Amer Fort, City Palace & Hawa Mahal, Jaipur",
+    "Jeep / canter safari in Ranthambore National Park",
+    "City Palace & Lake Pichola boat ride, Udaipur",
+    "Mehrangarh Fort & Jaswant Thada, Jodhpur",
+    "Jaisalmer Fort, Patwon ki Haveli & Sam sand-dune camel ride"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Jaipur",
+     "text": "Arrive in Jaipur and check in. Evening at Birla Mandir and the local bazaars.",
+     "items": [
+      [
+       "plane",
+       "Arrive Jaipur (JAI)"
+      ],
+      [
+       "car",
+       "Airport/railway transfer"
+      ]
+     ],
+     "meals": "Dinner",
+     "stay": "Hotel, Jaipur"
+    },
+    {
+     "title": "Jaipur Sightseeing",
+     "text": "Amer Fort, Jal Mahal (photo stop), City Palace, Jantar Mantar and Hawa Mahal.",
+     "items": [
+      [
+       "landmark",
+       "Amer Fort & City Palace"
+      ],
+      [
+       "camera",
+       "Hawa Mahal & Jal Mahal"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Jaipur"
+    },
+    {
+     "title": "Jaipur → Ranthambore",
+     "text": "Drive about 3.5 hours to Ranthambore. Afternoon jungle safari in the national park (subject to permit availability).",
+     "items": [
+      [
+       "car",
+       "Drive Jaipur → Ranthambore"
+      ],
+      [
+       "paw",
+       "Jungle safari"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Resort, Ranthambore"
+    },
+    {
+     "title": "Ranthambore → Udaipur",
+     "text": "Long scenic drive to Udaipur, the City of Lakes. Evening at leisure by Lake Pichola.",
+     "items": [
+      [
+       "car",
+       "Drive Ranthambore → Udaipur"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Udaipur"
+    },
+    {
+     "title": "Udaipur Sightseeing",
+     "text": "City Palace, Jagdish Temple, Saheliyon ki Bari, Fateh Sagar Lake and a sunset boat ride on Lake Pichola.",
+     "items": [
+      [
+       "landmark",
+       "City Palace"
+      ],
+      [
+       "ship",
+       "Lake Pichola boat ride"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Udaipur"
+    },
+    {
+     "title": "Udaipur → Jodhpur",
+     "text": "Drive to Jodhpur via the Ranakpur Jain temples.",
+     "items": [
+      [
+       "car",
+       "Drive Udaipur → Jodhpur"
+      ],
+      [
+       "place-of-worship",
+       "Ranakpur temples"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Jodhpur"
+    },
+    {
+     "title": "Jodhpur Sightseeing",
+     "text": "Mehrangarh Fort, Jaswant Thada, Umaid Bhawan Palace museum and the Clock Tower market.",
+     "items": [
+      [
+       "landmark",
+       "Mehrangarh Fort"
+      ],
+      [
+       "bag-shopping",
+       "Clock Tower market"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Jodhpur"
+    },
+    {
+     "title": "Jodhpur → Jaisalmer · Desert Camp",
+     "text": "Drive to Jaisalmer and continue to the Sam sand dunes for a camel ride at sunset, folk music and dinner at the desert camp.",
+     "items": [
+      [
+       "car",
+       "Drive Jodhpur → Jaisalmer"
+      ],
+      [
+       "horse",
+       "Camel ride at Sam dunes"
+      ],
+      [
+       "music",
+       "Rajasthani folk evening"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Desert camp, Jaisalmer"
+    },
+    {
+     "title": "Jaisalmer Sightseeing",
+     "text": "Jaisalmer Fort (the living fort), Patwon ki Haveli, Salim Singh ki Haveli and Gadisar Lake.",
+     "items": [
+      [
+       "landmark",
+       "Jaisalmer Fort & havelis"
+      ],
+      [
+       "water",
+       "Gadisar Lake"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Jaisalmer"
+    },
+    {
+     "title": "Depart Jaisalmer",
+     "text": "Transfer to Jaisalmer airport or railway station for your onward journey.",
+     "items": [
+      [
+       "car",
+       "Hotel-to-airport/station transfer"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Jaipur",
+     "3★ hotel or similar"
+    ],
+    [
+     "Ranthambore",
+     "3★ resort or similar"
+    ],
+    [
+     "Udaipur",
+     "3★ hotel or similar"
+    ],
+    [
+     "Jodhpur",
+     "3★ hotel or similar"
+    ],
+    [
+     "Jaisalmer",
+     "3★ hotel / Swiss-tent camp or similar"
+    ]
+   ],
+   "inclusions": [
+    "Accommodation",
+    "Breakfast + Dinner",
+    "All sightseeing as per itinerary",
+    "Transportation (private vehicle)",
+    "Tour guide"
+   ],
+   "exclusions": [
+    "Airfare / train fare to the starting point",
+    "Lunches / meals not mentioned",
+    "Entry tickets, camera fees and adventure activities unless mentioned",
+    "Personal expenses, tips and porterage",
+    "GST as applicable",
+    "Anything not listed under inclusions",
+    "Safari permit in Ranthambore (subject to availability)"
+   ],
+   "bestTime": "October to March",
+   "faqs": [
+    [
+     "How many days is the Rajasthan tour?",
+     "9 nights / 10 days: Jaipur 2, Ranthambore 1, Udaipur 2, Jodhpur 2 and Jaisalmer 2. We can shorten or extend it."
+    ],
+    [
+     "Is the Ranthambore safari guaranteed?",
+     "Safari permits are issued by the Forest Department and sell out in peak season, so we book them as early as possible."
+    ]
+   ],
+   "priceNote": "per person, starting price"
+  },
+  {
+   "slug": "grand-himachal-with-amritsar",
+   "group": "family",
+   "title": "Grand Himachal with Amritsar",
+   "category": "Family · Domestic · Himachal & Punjab",
+   "country": "India",
+   "cities": [
+    "Shimla",
+    "Manali",
+    "Dharamshala",
+    "Dalhousie",
+    "Amritsar"
+   ],
+   "nights": 11,
+   "days": 12,
+   "price": 51440,
+   "pax": "Family",
+   "badge": "",
+   "image": "photo-1597167231350-d057a45dc868",
+   "imageAlt": "Manali town below snow-covered mountains",
+   "gallery": [
+    [
+     "photo-1597074866923-dc0589150358",
+     "Shimla on the hillside"
+    ],
+    [
+     "photo-1584108132271-5189ee552144",
+     "Snow peaks above Dharamshala"
+    ],
+    [
+     "photo-1623059508779-2542c6e83753",
+     "Golden Temple reflected in the sarovar, Amritsar"
+    ],
+    [
+     "photo-1593181629936-11c609b8db9b",
+     "Snow point near Manali"
+    ]
+   ],
+   "summary": "11 Nights / 12 Days — Shimla (2) – Manali (3) – Dharamshala (2) – Dalhousie (2) – Amritsar (2) with breakfast + dinner, all sightseeing, transportation, accommodation and a tour guide.",
+   "overview": "Himachal end to end, finishing in Amritsar. Colonial Shimla, Manali and the Solang Valley snow, the Tibetan quarter of McLeod Ganj in Dharamshala, the meadows of Dalhousie and Khajjiar, and finally the Golden Temple and the Wagah Border ceremony.",
+   "highlights": [
+    "Mall Road, Kufri & Jakhoo, Shimla",
+    "Solang Valley & Atal Tunnel / Rohtang (permit), Manali",
+    "McLeod Ganj & Bhagsu waterfall, Dharamshala",
+    "Khajjiar — ‘mini Switzerland of India’, Dalhousie",
+    "Golden Temple, Jallianwala Bagh & Wagah Border, Amritsar"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Chandigarh → Shimla",
+     "text": "Pick-up from Chandigarh airport/railway station and drive about 4 hours to Shimla. Evening on Mall Road and the Ridge.",
+     "items": [
+      [
+       "car",
+       "Drive Chandigarh → Shimla"
+      ],
+      [
+       "bag-shopping",
+       "Mall Road & the Ridge"
+      ]
+     ],
+     "meals": "Dinner",
+     "stay": "Hotel, Shimla"
+    },
+    {
+     "title": "Kufri & Shimla Sightseeing",
+     "text": "Excursion to Kufri, then Jakhoo Temple, Christ Church and the Viceregal Lodge (outside).",
+     "items": [
+      [
+       "mountain",
+       "Kufri excursion"
+      ],
+      [
+       "landmark",
+       "Shimla heritage sights"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Shimla"
+    },
+    {
+     "title": "Shimla → Manali",
+     "text": "Drive to Manali along the Beas river, via Pandoh Dam and the Kullu valley (river rafting optional at Kullu).",
+     "items": [
+      [
+       "car",
+       "Drive Shimla → Manali"
+      ],
+      [
+       "water",
+       "Optional rafting at Kullu"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Manali"
+    },
+    {
+     "title": "Solang Valley & Atal Tunnel",
+     "text": "Day trip to Solang Valley for paragliding, ropeway and snow activities, and through the Atal Tunnel to Sissu (Rohtang Pass on permit).",
+     "items": [
+      [
+       "mountain",
+       "Solang Valley"
+      ],
+      [
+       "road",
+       "Atal Tunnel & Sissu"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Manali"
+    },
+    {
+     "title": "Manali Local Sightseeing",
+     "text": "Hadimba Temple, Vashisht hot springs, Manu Temple, Tibetan monastery and Old Manali.",
+     "items": [
+      [
+       "place-of-worship",
+       "Hadimba Temple"
+      ],
+      [
+       "hot-tub-person",
+       "Vashisht hot springs"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Manali"
+    },
+    {
+     "title": "Manali → Dharamshala",
+     "text": "Drive to Dharamshala via Baijnath Temple.",
+     "items": [
+      [
+       "car",
+       "Drive Manali → Dharamshala"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Dharamshala"
+    },
+    {
+     "title": "Dharamshala & McLeod Ganj",
+     "text": "Dalai Lama Temple complex, Bhagsu Nag waterfall, St John in the Wilderness church and the HPCA cricket stadium.",
+     "items": [
+      [
+       "place-of-worship",
+       "Dalai Lama Temple"
+      ],
+      [
+       "water",
+       "Bhagsu waterfall"
+      ],
+      [
+       "camera",
+       "HPCA stadium"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Dharamshala"
+    },
+    {
+     "title": "Dharamshala → Dalhousie",
+     "text": "Drive to Dalhousie. Evening walk at Gandhi Chowk and Subhash Chowk.",
+     "items": [
+      [
+       "car",
+       "Drive Dharamshala → Dalhousie"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Dalhousie"
+    },
+    {
+     "title": "Khajjiar Excursion",
+     "text": "Day trip to Khajjiar’s meadow and lake, ringed by deodar forest, with an optional visit to Chamba.",
+     "items": [
+      [
+       "mountain",
+       "Khajjiar meadow & lake"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Dalhousie"
+    },
+    {
+     "title": "Dalhousie → Amritsar · Wagah Border",
+     "text": "Drive to Amritsar and continue to the Attari–Wagah Border for the Beating Retreat ceremony.",
+     "items": [
+      [
+       "car",
+       "Drive Dalhousie → Amritsar"
+      ],
+      [
+       "flag",
+       "Wagah Border ceremony"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Amritsar"
+    },
+    {
+     "title": "Golden Temple & Amritsar",
+     "text": "Golden Temple (Harmandir Sahib), Jallianwala Bagh, Partition Museum and the old-city bazaars.",
+     "items": [
+      [
+       "place-of-worship",
+       "Golden Temple"
+      ],
+      [
+       "landmark",
+       "Jallianwala Bagh"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Amritsar"
+    },
+    {
+     "title": "Depart Amritsar",
+     "text": "Transfer to Amritsar airport or railway station.",
+     "items": [
+      [
+       "car",
+       "Hotel-to-airport/station transfer"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Shimla",
+     "3★ hotel or similar"
+    ],
+    [
+     "Manali",
+     "3★ hotel or similar"
+    ],
+    [
+     "Dharamshala",
+     "3★ hotel or similar"
+    ],
+    [
+     "Dalhousie",
+     "3★ hotel or similar"
+    ],
+    [
+     "Amritsar",
+     "3★ hotel or similar"
+    ]
+   ],
+   "inclusions": [
+    "Accommodation",
+    "Breakfast + Dinner",
+    "All sightseeing as per itinerary",
+    "Transportation (private vehicle)",
+    "Tour guide"
+   ],
+   "exclusions": [
+    "Airfare / train fare to the starting point",
+    "Lunches / meals not mentioned",
+    "Entry tickets, camera fees and adventure activities unless mentioned",
+    "Personal expenses, tips and porterage",
+    "GST as applicable",
+    "Anything not listed under inclusions",
+    "Rohtang permit, Solang activities & local union cabs"
+   ],
+   "bestTime": "March to June and September to December",
+   "faqs": [
+    [
+     "Where does the Grand Himachal tour start and end?",
+     "It starts at Chandigarh and ends at Amritsar, both with good flight and train connections to Mumbai."
+    ],
+    [
+     "Will we see snow?",
+     "Snow is likely at Solang/Atal Tunnel from December to April; at Rohtang until about June."
+    ]
+   ],
+   "priceNote": "per person, starting price",
+   "featured": true
+  },
+  {
+   "slug": "ultimate-bali",
+   "group": "family",
+   "title": "Ultimate Bali",
+   "category": "Family · International · Indonesia",
+   "country": "Indonesia",
+   "cities": [
+    "Kuta",
+    "Gili Islands",
+    "Ubud"
+   ],
+   "nights": 7,
+   "days": 8,
+   "price": 48990,
+   "pax": "Family",
+   "badge": "",
+   "image": "photo-1555400038-63f5ba517a47",
+   "imageAlt": "Green rice terraces in Ubud, Bali",
+   "gallery": [
+    [
+     "photo-1594235195084-a14de3830b02",
+     "Aerial view of a Gili Island beach"
+    ],
+    [
+     "photo-1501179691627-eeaa65ea017c",
+     "Balinese temple gate"
+    ],
+    [
+     "photo-1571984405176-5958bd9ac31d",
+     "Palm-fringed pool facing the ocean"
+    ],
+    [
+     "photo-1559628233-100c798642d4",
+     "Aerial view of rice fields"
+    ]
+   ],
+   "summary": "7 Nights / 8 Days — Kuta (3) – Gili Island (2) – Ubud (2) with accommodation, breakfast, all sightseeing and transportation.",
+   "overview": "Beaches, islands and rice terraces in one trip: three nights in Kuta for Uluwatu and Tanah Lot, two nights on the car-free Gili Islands for snorkelling with turtles, and two nights in green Ubud.",
+   "highlights": [
+    "Uluwatu Temple & Kecak fire dance",
+    "Tanah Lot sea temple at sunset",
+    "Gili Islands — snorkelling with sea turtles",
+    "Tegallalang rice terraces & Ubud Monkey Forest",
+    "Kintamani volcano view"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Bali · Kuta",
+     "text": "Arrive at Denpasar airport and transfer to Kuta. Evening on Kuta Beach.",
+     "items": [
+      [
+       "plane",
+       "Arrive Denpasar (DPS)"
+      ],
+      [
+       "car",
+       "Airport-to-hotel transfer"
+      ]
+     ],
+     "meals": "—",
+     "stay": "Hotel, Kuta"
+    },
+    {
+     "title": "Uluwatu & Kecak Dance",
+     "text": "Visit Uluwatu Temple on its cliff and watch the Kecak fire dance at sunset, followed by Jimbaran Bay.",
+     "items": [
+      [
+       "place-of-worship",
+       "Uluwatu Temple"
+      ],
+      [
+       "fire",
+       "Kecak dance"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Kuta"
+    },
+    {
+     "title": "Tanah Lot · Water Sports",
+     "text": "Morning water sports at Tanjung Benoa (optional), afternoon at Tanah Lot sea temple for sunset.",
+     "items": [
+      [
+       "water",
+       "Optional water sports"
+      ],
+      [
+       "camera",
+       "Tanah Lot sunset"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Kuta"
+    },
+    {
+     "title": "Fast Boat to Gili Islands",
+     "text": "Transfer to Padang Bai/Serangan and take a fast boat to Gili Trawangan.",
+     "items": [
+      [
+       "ship",
+       "Fast boat to Gili"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Gili Islands"
+    },
+    {
+     "title": "Gili Snorkelling Tour",
+     "text": "Glass-bottom boat snorkelling around Gili Trawangan, Meno and Air — turtles, the underwater statues and coral gardens.",
+     "items": [
+      [
+       "person-swimming",
+       "Snorkelling tour"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Gili Islands"
+    },
+    {
+     "title": "Gili → Ubud",
+     "text": "Fast boat back to Bali and transfer to Ubud. Evening at Ubud Palace and market.",
+     "items": [
+      [
+       "ship",
+       "Fast boat to Bali"
+      ],
+      [
+       "car",
+       "Transfer to Ubud"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Ubud"
+    },
+    {
+     "title": "Kintamani & Ubud Tour",
+     "text": "Tegallalang rice terraces, Tirta Empul water temple, Kintamani volcano viewpoint and the Ubud Monkey Forest.",
+     "items": [
+      [
+       "leaf",
+       "Tegallalang rice terraces"
+      ],
+      [
+       "mountain",
+       "Kintamani volcano view"
+      ],
+      [
+       "paw",
+       "Monkey Forest"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Ubud"
+    },
+    {
+     "title": "Depart Bali",
+     "text": "Transfer to Denpasar airport for your flight home.",
+     "items": [
+      [
+       "car",
+       "Hotel-to-airport transfer"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Kuta",
+     "4★ hotel or similar"
+    ],
+    [
+     "Gili Islands",
+     "3★/4★ resort or similar"
+    ],
+    [
+     "Ubud",
+     "4★ resort / villa or similar"
+    ]
+   ],
+   "inclusions": [
+    "Accommodation",
+    "Daily breakfast",
+    "All sightseeing as per itinerary",
+    "Transportation & airport transfers",
+    "Fast-boat tickets Bali ⇄ Gili"
+   ],
+   "exclusions": [
+    "Airfare (we quote the best fare for your dates separately)",
+    "Visa fees unless mentioned",
+    "Travel insurance",
+    "Lunches / meals not mentioned",
+    "Personal expenses, tips and porterage",
+    "Anything not listed under inclusions",
+    "Bali tourist levy (paid on arrival)"
+   ],
+   "bestTime": "April to October",
+   "faqs": [
+    [
+     "Do Indians need a visa for Bali?",
+     "Indian passport holders get a visa on arrival (e-VOA) for Indonesia; we confirm the current fee and rules."
+    ],
+    [
+     "Is airfare included?",
+     "No — flights are quoted separately at the best fare for your dates."
+    ]
+   ],
+   "priceNote": "per person, starting price",
+   "featured": true
+  },
+  {
+   "slug": "hill-and-lakes-trails",
+   "group": "family",
+   "title": "Hill & Lakes Trails",
+   "category": "Family · Domestic · Rajasthan",
+   "country": "India",
+   "cities": [
+    "Mount Abu",
+    "Udaipur"
+   ],
+   "nights": 4,
+   "days": 5,
+   "price": 13800,
+   "pax": "Family",
+   "badge": "",
+   "image": "photo-1695956353120-54ce5e91632b",
+   "imageAlt": "City Palace on Lake Pichola, Udaipur, at golden hour",
+   "gallery": [
+    [
+     "photo-1504803184203-dd2dba6aa00e",
+     "Aravalli hills and forest at Mount Abu"
+    ],
+    [
+     "photo-1630825828191-6f14ad0b84b8",
+     "Nakki Lake area, Mount Abu"
+    ],
+    [
+     "photo-1615836245337-f5b9b2303f10",
+     "Boat on Lake Pichola, Udaipur"
+    ],
+    [
+     "photo-1633702738734-443da2c18f3c",
+     "Lake palace in Udaipur"
+    ]
+   ],
+   "summary": "Mount Abu – Udaipur with breakfast + dinner, all sightseeing, transportation, accommodation and a tour guide.",
+   "overview": "A short, easy break in Rajasthan’s only hill station and its loveliest lake city: Nakki Lake, Sunset Point and the Dilwara temples at Mount Abu, then palaces and lake boat rides in Udaipur.",
+   "highlights": [
+    "Nakki Lake boating & Sunset Point, Mount Abu",
+    "Dilwara Jain temples & Guru Shikhar",
+    "City Palace & Jagdish Temple, Udaipur",
+    "Lake Pichola boat ride",
+    "Saheliyon ki Bari & Fateh Sagar Lake"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Abu Road → Mount Abu",
+     "text": "Pick-up from Abu Road station (or Udaipur airport) and drive up to Mount Abu. Evening boating on Nakki Lake and Sunset Point.",
+     "items": [
+      [
+       "car",
+       "Transfer to Mount Abu"
+      ],
+      [
+       "ship",
+       "Nakki Lake boating"
+      ],
+      [
+       "camera",
+       "Sunset Point"
+      ]
+     ],
+     "meals": "Dinner",
+     "stay": "Hotel, Mount Abu"
+    },
+    {
+     "title": "Mount Abu Sightseeing",
+     "text": "Dilwara Jain temples, Guru Shikhar (highest point of the Aravallis), Achalgarh Fort and Toad Rock.",
+     "items": [
+      [
+       "place-of-worship",
+       "Dilwara temples"
+      ],
+      [
+       "mountain",
+       "Guru Shikhar"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Mount Abu"
+    },
+    {
+     "title": "Mount Abu → Udaipur",
+     "text": "Drive about 3.5 hours to Udaipur. Evening at Fateh Sagar Lake.",
+     "items": [
+      [
+       "car",
+       "Drive Mount Abu → Udaipur"
+      ],
+      [
+       "water",
+       "Fateh Sagar Lake"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Udaipur"
+    },
+    {
+     "title": "Udaipur Sightseeing",
+     "text": "City Palace, Jagdish Temple, Saheliyon ki Bari and a sunset boat ride on Lake Pichola.",
+     "items": [
+      [
+       "landmark",
+       "City Palace"
+      ],
+      [
+       "ship",
+       "Lake Pichola boat ride"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Udaipur"
+    },
+    {
+     "title": "Depart Udaipur",
+     "text": "Transfer to Udaipur airport or railway station.",
+     "items": [
+      [
+       "car",
+       "Hotel-to-airport/station transfer"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Mount Abu",
+     "3★ hotel or similar"
+    ],
+    [
+     "Udaipur",
+     "3★ hotel or similar"
+    ]
+   ],
+   "inclusions": [
+    "Accommodation",
+    "Breakfast + Dinner",
+    "All sightseeing as per itinerary",
+    "Transportation (private vehicle)",
+    "Tour guide"
+   ],
+   "exclusions": [
+    "Airfare / train fare to the starting point",
+    "Lunches / meals not mentioned",
+    "Entry tickets, camera fees and adventure activities unless mentioned",
+    "Personal expenses, tips and porterage",
+    "GST as applicable",
+    "Anything not listed under inclusions"
+   ],
+   "bestTime": "September to March",
+   "faqs": [
+    [
+     "How long is the Hill & Lakes Trails tour?",
+     "4 nights / 5 days — 2 nights in Mount Abu and 2 in Udaipur; it can be extended."
+    ],
+    [
+     "How do we reach Mount Abu from Mumbai?",
+     "By train to Abu Road station or by flight to Udaipur; we arrange the pick-up from either."
+    ]
+   ],
+   "priceNote": "per person, starting price"
+  },
+  {
+   "slug": "bali-delight",
+   "group": "honeymoon",
+   "title": "Bali Delight",
+   "category": "Honeymoon · International · Indonesia",
+   "country": "Indonesia",
+   "cities": [
+    "Seminyak"
+   ],
+   "nights": 4,
+   "days": 5,
+   "price": 22990,
+   "pax": "Couples",
+   "badge": "",
+   "image": "photo-1571984405176-5958bd9ac31d",
+   "imageAlt": "Palm-fringed pool facing the ocean, Seminyak",
+   "gallery": [
+    [
+     "photo-1552272492-3053fbacbf4b",
+     "Palm tree silhouettes at sunset on a Bali beach"
+    ],
+    [
+     "photo-1501179691627-eeaa65ea017c",
+     "Balinese temple gate"
+    ],
+    [
+     "photo-1555400038-63f5ba517a47",
+     "Rice terraces near Ubud"
+    ],
+    [
+     "photo-1662950267280-0cdf5f7139b4",
+     "Sunset at a Seminyak beach club"
+    ]
+   ],
+   "summary": "4 Nights / 5 Days — Seminyak (4) with accommodation, breakfast, all sightseeing and transportation.",
+   "overview": "Four relaxed nights in stylish Seminyak with its beach clubs and sunsets, with day tours to Ubud’s rice terraces and the cliff-top Uluwatu Temple.",
+   "highlights": [
+    "Stay in Seminyak, Bali’s chic beach district",
+    "Ubud tour — rice terraces & Monkey Forest",
+    "Uluwatu Temple & Kecak dance at sunset",
+    "Tanah Lot sea temple",
+    "Free day for spa and beach clubs"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Bali · Seminyak",
+     "text": "Arrive at Denpasar airport and transfer to Seminyak. Evening sunset at the beach.",
+     "items": [
+      [
+       "plane",
+       "Arrive Denpasar (DPS)"
+      ],
+      [
+       "car",
+       "Airport-to-hotel transfer"
+      ]
+     ],
+     "meals": "—",
+     "stay": "Hotel, Seminyak"
+    },
+    {
+     "title": "Ubud Tour",
+     "text": "Tegallalang rice terraces, a coffee plantation, Ubud Monkey Forest and Ubud market.",
+     "items": [
+      [
+       "leaf",
+       "Tegallalang rice terraces"
+      ],
+      [
+       "paw",
+       "Monkey Forest"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Seminyak"
+    },
+    {
+     "title": "Tanah Lot & Uluwatu",
+     "text": "Tanah Lot sea temple, then Uluwatu Temple for the Kecak fire dance at sunset.",
+     "items": [
+      [
+       "camera",
+       "Tanah Lot"
+      ],
+      [
+       "fire",
+       "Uluwatu & Kecak dance"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Seminyak"
+    },
+    {
+     "title": "Day at Leisure",
+     "text": "A free day for a couples’ spa, beach clubs or optional water sports.",
+     "items": [
+      [
+       "spa",
+       "Optional couples’ spa"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Seminyak"
+    },
+    {
+     "title": "Depart Bali",
+     "text": "Transfer to Denpasar airport for your flight home.",
+     "items": [
+      [
+       "car",
+       "Hotel-to-airport transfer"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Seminyak",
+     "4★ hotel / pool villa or similar"
+    ]
+   ],
+   "inclusions": [
+    "Accommodation",
+    "Daily breakfast",
+    "All sightseeing as per itinerary",
+    "Transportation & airport transfers"
+   ],
+   "exclusions": [
+    "Airfare (we quote the best fare for your dates separately)",
+    "Visa fees unless mentioned",
+    "Travel insurance",
+    "Lunches / meals not mentioned",
+    "Personal expenses, tips and porterage",
+    "Anything not listed under inclusions",
+    "Bali tourist levy"
+   ],
+   "bestTime": "April to October",
+   "faqs": [
+    [
+     "Do Indians need a visa for Bali?",
+     "Indian passport holders get a visa on arrival (e-VOA) for Indonesia; we confirm the current fee and rules."
+    ],
+    [
+     "Is airfare included?",
+     "No — flights are quoted separately at the best fare for your dates."
+    ]
+   ],
+   "priceNote": "per person, starting price",
+   "featured": true
+  },
+  {
+   "slug": "exclusive-thailand",
+   "group": "honeymoon",
+   "title": "Exclusive Thailand",
+   "category": "Honeymoon · International · Thailand",
+   "country": "Thailand",
+   "cities": [
+    "Phuket",
+    "Bangkok"
+   ],
+   "nights": 5,
+   "days": 6,
+   "price": 24990,
+   "pax": "Couples",
+   "badge": "",
+   "image": "photo-1601225612316-b4733315a717",
+   "imageAlt": "Tropical beach seen from a hill in Phuket",
+   "gallery": [
+    [
+     "photo-1686238349945-82074ce9f02f",
+     "Pileh Lagoon, Phi Phi"
+    ],
+    [
+     "photo-1552465011-b4e21bf6e79a",
+     "Longtail boats on the beach"
+    ],
+    [
+     "photo-1613672803979-a6edfc5a179b",
+     "Wat Arun, Bangkok"
+    ],
+    [
+     "photo-1598970605070-a38a6ccd3a2d",
+     "Golden dragon statue at a Bangkok temple"
+    ]
+   ],
+   "summary": "5 Nights / 6 Days — Phuket (3) – Bangkok (2) with accommodation, breakfast, Bangkok temple tour, all sightseeing and transportation.",
+   "overview": "Three beach nights in Phuket with a Phi Phi island day, then two nights in Bangkok for temples, a river dinner cruise (optional) and shopping.",
+   "highlights": [
+    "Phi Phi Island speedboat tour",
+    "Phuket city tour & Big Buddha",
+    "Sunset at Promthep Cape",
+    "Bangkok temple tour",
+    "Optional Chao Phraya dinner cruise"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Phuket",
+     "text": "Arrive at Phuket airport and transfer to your hotel. Evening free.",
+     "items": [
+      [
+       "plane",
+       "Arrive Phuket (HKT)"
+      ],
+      [
+       "car",
+       "Airport-to-hotel transfer"
+      ]
+     ],
+     "meals": "—",
+     "stay": "Hotel, Phuket"
+    },
+    {
+     "title": "Phi Phi Island Tour",
+     "text": "Full-day speedboat tour to Phi Phi — Maya Bay, Pileh Lagoon and snorkelling — with lunch.",
+     "items": [
+      [
+       "ship",
+       "Phi Phi speedboat tour"
+      ]
+     ],
+     "meals": "Breakfast, Lunch",
+     "stay": "Hotel, Phuket"
+    },
+    {
+     "title": "Phuket City Tour",
+     "text": "Big Buddha, Wat Chalong, Old Phuket Town and sunset at Promthep Cape.",
+     "items": [
+      [
+       "landmark",
+       "Big Buddha & Wat Chalong"
+      ],
+      [
+       "camera",
+       "Promthep Cape sunset"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Phuket"
+    },
+    {
+     "title": "Fly to Bangkok · Temple Tour",
+     "text": "Fly to Bangkok (domestic airfare extra). Afternoon temple tour — Golden Buddha and Marble Temple.",
+     "items": [
+      [
+       "plane",
+       "Flight Phuket → Bangkok"
+      ],
+      [
+       "place-of-worship",
+       "Temple tour"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Bangkok"
+    },
+    {
+     "title": "Bangkok at Leisure",
+     "text": "Free day for shopping at Siam and Pratunam; optional Chao Phraya dinner cruise.",
+     "items": [
+      [
+       "bag-shopping",
+       "Shopping"
+      ],
+      [
+       "ship",
+       "Optional dinner cruise"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Bangkok"
+    },
+    {
+     "title": "Depart Bangkok",
+     "text": "Transfer to Bangkok airport for your flight home.",
+     "items": [
+      [
+       "car",
+       "Hotel-to-airport transfer"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Phuket",
+     "4★ hotel or similar"
+    ],
+    [
+     "Bangkok",
+     "4★ hotel or similar"
+    ]
+   ],
+   "inclusions": [
+    "Accommodation",
+    "Daily breakfast",
+    "All sightseeing as per itinerary",
+    "Transportation & airport transfers",
+    "Bangkok temple tour"
+   ],
+   "exclusions": [
+    "Airfare (we quote the best fare for your dates separately)",
+    "Visa fees unless mentioned",
+    "Travel insurance",
+    "Lunches / meals not mentioned",
+    "Personal expenses, tips and porterage",
+    "Anything not listed under inclusions",
+    "Phuket → Bangkok domestic flight"
+   ],
+   "bestTime": "November to April",
+   "faqs": [
+    [
+     "Do Indian passport holders need a visa for Thailand?",
+     "Visa rules for Indians have changed several times; we confirm the current visa-exempt / e-visa rules and handle the paperwork."
+    ],
+    [
+     "Is airfare included?",
+     "No — the price covers stay, breakfast, sightseeing and transfers. Flights are quoted separately at the best fare for your dates."
+    ]
+   ],
+   "priceNote": "per person, starting price",
+   "featured": true
+  },
+  {
+   "slug": "highlights-of-vietnam",
+   "group": "honeymoon",
+   "title": "Highlights of Vietnam",
+   "category": "Honeymoon · International · Vietnam",
+   "country": "Vietnam",
+   "cities": [
+    "Hanoi",
+    "Ha Long Bay",
+    "Ho Chi Minh City"
+   ],
+   "nights": 6,
+   "days": 7,
+   "price": 61990,
+   "pax": "Couples",
+   "badge": "",
+   "image": "photo-1643029891412-92f9a81a8c16",
+   "imageAlt": "Boats on Ha Long Bay among limestone karsts",
+   "gallery": [
+    [
+     "photo-1509030450996-dd1a26dda07a",
+     "Hanoi at golden hour"
+    ],
+    [
+     "photo-1555921015-5532091f6026",
+     "Hanoi train street"
+    ],
+    [
+     "photo-1663602020492-ee3aea145f2b",
+     "Cruise boats in Ha Long Bay"
+    ],
+    [
+     "photo-1583417319070-4a69db38a482",
+     "Ho Chi Minh City skyline at night"
+    ]
+   ],
+   "summary": "6 Nights / 7 Days — Hanoi (2) – Ha Long Bay (1) – Ho Chi Minh (3) with accommodation, breakfast, all sightseeing and transportation.",
+   "overview": "North to south in a week: Hanoi’s Old Quarter and lakes, an overnight cruise among the limestone islands of Ha Long Bay, then Ho Chi Minh City with the Cu Chi Tunnels and the Mekong Delta.",
+   "highlights": [
+    "Hanoi city tour — Hoan Kiem Lake, Old Quarter & Temple of Literature",
+    "Overnight Ha Long Bay cruise with kayaking",
+    "Cu Chi Tunnels",
+    "Mekong Delta boat trip",
+    "Saigon city tour & Ben Thanh market"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Hanoi",
+     "text": "Arrive at Hanoi airport and transfer to your hotel in the Old Quarter. Evening water-puppet show (optional).",
+     "items": [
+      [
+       "plane",
+       "Arrive Hanoi (HAN)"
+      ],
+      [
+       "car",
+       "Airport-to-hotel transfer"
+      ]
+     ],
+     "meals": "—",
+     "stay": "Hotel, Hanoi"
+    },
+    {
+     "title": "Hanoi City Tour",
+     "text": "Ho Chi Minh Mausoleum (outside), One Pillar Pagoda, Temple of Literature, Hoan Kiem Lake and a cyclo ride in the Old Quarter.",
+     "items": [
+      [
+       "landmark",
+       "Hanoi city tour"
+      ],
+      [
+       "bicycle",
+       "Old Quarter cyclo ride"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Hanoi"
+    },
+    {
+     "title": "Ha Long Bay Overnight Cruise",
+     "text": "Drive to Ha Long Bay and board your cruise. Kayaking, a cave visit and sunset on deck; overnight on board.",
+     "items": [
+      [
+       "ship",
+       "Overnight cruise"
+      ],
+      [
+       "water",
+       "Kayaking & cave visit"
+      ]
+     ],
+     "meals": "Breakfast, Lunch, Dinner",
+     "stay": "Cruise, Ha Long Bay"
+    },
+    {
+     "title": "Ha Long → Fly to Ho Chi Minh City",
+     "text": "Tai chi on deck and brunch, then return to Hanoi airport for the flight to Ho Chi Minh City.",
+     "items": [
+      [
+       "ship",
+       "Morning cruise"
+      ],
+      [
+       "plane",
+       "Flight Hanoi → Ho Chi Minh City"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Ho Chi Minh City"
+    },
+    {
+     "title": "Cu Chi Tunnels · City Tour",
+     "text": "Morning at the Cu Chi Tunnels; afternoon city tour — Notre-Dame Cathedral, Central Post Office and Ben Thanh market.",
+     "items": [
+      [
+       "dungeon",
+       "Cu Chi Tunnels"
+      ],
+      [
+       "landmark",
+       "Saigon city tour"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Ho Chi Minh City"
+    },
+    {
+     "title": "Mekong Delta",
+     "text": "Day trip to the Mekong Delta — boat ride through the canals, fruit orchards and a coconut-candy workshop.",
+     "items": [
+      [
+       "ship",
+       "Mekong Delta boat trip"
+      ]
+     ],
+     "meals": "Breakfast, Lunch",
+     "stay": "Hotel, Ho Chi Minh City"
+    },
+    {
+     "title": "Depart",
+     "text": "Transfer to Tan Son Nhat airport for your flight home.",
+     "items": [
+      [
+       "car",
+       "Hotel-to-airport transfer"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Hanoi",
+     "4★ hotel or similar"
+    ],
+    [
+     "Ha Long Bay",
+     "4★ overnight cruise or similar"
+    ],
+    [
+     "Ho Chi Minh City",
+     "4★ hotel or similar"
+    ]
+   ],
+   "inclusions": [
+    "Accommodation",
+    "Daily breakfast",
+    "All sightseeing as per itinerary",
+    "Transportation & airport transfers",
+    "Ha Long Bay overnight cruise with meals on board"
+   ],
+   "exclusions": [
+    "Airfare (we quote the best fare for your dates separately)",
+    "Visa fees unless mentioned",
+    "Travel insurance",
+    "Lunches / meals not mentioned",
+    "Personal expenses, tips and porterage",
+    "Anything not listed under inclusions",
+    "Domestic flight Hanoi → Ho Chi Minh City"
+   ],
+   "bestTime": "October to April",
+   "faqs": [
+    [
+     "Do Indians need a visa for Vietnam?",
+     "Yes — an e-visa, usually issued within a few working days. We apply for you."
+    ],
+    [
+     "Is airfare included?",
+     "No — international and domestic flights are quoted separately at the best available fare."
+    ]
+   ],
+   "priceNote": "per person, starting price",
+   "featured": true
+  },
+  {
+   "slug": "da-nang-and-hoi-an",
+   "group": "honeymoon",
+   "title": "Da Nang & Hoi An",
+   "category": "Honeymoon · International · Vietnam",
+   "country": "Vietnam",
+   "cities": [
+    "Da Nang",
+    "Hoi An"
+   ],
+   "nights": 3,
+   "days": 4,
+   "price": 27666,
+   "pax": "Couples",
+   "badge": "",
+   "image": "photo-1741138327956-dfa75763b50d",
+   "imageAlt": "Golden Bridge held by giant hands, Ba Na Hills, Da Nang",
+   "gallery": [
+    [
+     "photo-1563354860-799d15199ac3",
+     "Lanterns in Hoi An at night"
+    ],
+    [
+     "photo-1722987170598-556327f43fc7",
+     "Colourful boats on the Thu Bon river, Hoi An"
+    ],
+    [
+     "photo-1559592413-7cec4d0cae2b",
+     "People walking on a bridge in Da Nang"
+    ],
+    [
+     "photo-1664650440553-ab53804814b3",
+     "Boats along the river in Hoi An"
+    ]
+   ],
+   "summary": "3 Nights / 4 Days — Da Nang (2) – Hoi An (1) with accommodation, breakfast, all sightseeing and transportation.",
+   "overview": "A short, romantic Vietnam escape: the Golden Bridge and French Village at Ba Na Hills, Da Nang’s beaches and Marble Mountains, and a lantern-lit night in the UNESCO old town of Hoi An.",
+   "highlights": [
+    "Ba Na Hills & the Golden Bridge by cable car",
+    "Marble Mountains & Lady Buddha",
+    "My Khe beach, Da Nang",
+    "Hoi An Ancient Town & Japanese Covered Bridge",
+    "Lantern boat ride on the Thu Bon river"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Da Nang",
+     "text": "Arrive at Da Nang airport and transfer to the hotel near My Khe beach. Evening at the Dragon Bridge.",
+     "items": [
+      [
+       "plane",
+       "Arrive Da Nang (DAD)"
+      ],
+      [
+       "car",
+       "Airport-to-hotel transfer"
+      ]
+     ],
+     "meals": "—",
+     "stay": "Hotel, Da Nang"
+    },
+    {
+     "title": "Ba Na Hills & Golden Bridge",
+     "text": "Cable car up to Ba Na Hills for the Golden Bridge, the French Village and Fantasy Park.",
+     "items": [
+      [
+       "cable-car",
+       "Ba Na Hills cable car"
+      ],
+      [
+       "landmark",
+       "Golden Bridge"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Da Nang"
+    },
+    {
+     "title": "Marble Mountains → Hoi An",
+     "text": "Visit the Marble Mountains and Lady Buddha at Son Tra, then transfer to Hoi An for a walking tour and a lantern boat ride at night.",
+     "items": [
+      [
+       "mountain",
+       "Marble Mountains"
+      ],
+      [
+       "ship",
+       "Lantern boat ride"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Hoi An"
+    },
+    {
+     "title": "Depart",
+     "text": "Transfer to Da Nang airport for your flight home.",
+     "items": [
+      [
+       "car",
+       "Hotel-to-airport transfer"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Da Nang",
+     "4★ hotel or similar"
+    ],
+    [
+     "Hoi An",
+     "4★ hotel or similar"
+    ]
+   ],
+   "inclusions": [
+    "Accommodation",
+    "Daily breakfast",
+    "All sightseeing as per itinerary",
+    "Transportation & airport transfers",
+    "Ba Na Hills cable-car ticket"
+   ],
+   "exclusions": [
+    "Airfare (we quote the best fare for your dates separately)",
+    "Visa fees unless mentioned",
+    "Travel insurance",
+    "Lunches / meals not mentioned",
+    "Personal expenses, tips and porterage",
+    "Anything not listed under inclusions"
+   ],
+   "bestTime": "February to August",
+   "faqs": [
+    [
+     "Do Indians need a visa for Vietnam?",
+     "Yes — an e-visa, usually issued within a few working days. We apply for you."
+    ],
+    [
+     "Is airfare included?",
+     "No — international and domestic flights are quoted separately at the best available fare."
+    ]
+   ],
+   "priceNote": "per person, starting price"
+  },
+  {
+   "slug": "dubai-luxury",
+   "group": "honeymoon",
+   "title": "Dubai Luxury",
+   "category": "Honeymoon · International · UAE",
+   "country": "United Arab Emirates",
+   "cities": [
+    "Dubai",
+    "Yas Island"
+   ],
+   "nights": 5,
+   "days": 6,
+   "price": 45990,
+   "pax": "Couples",
+   "badge": "",
+   "image": "photo-1582672060674-bc2bd808a8b5",
+   "imageAlt": "Burj Al Arab on the Jumeirah coast",
+   "gallery": [
+    [
+     "photo-1608991156162-3c55b3cf05d3",
+     "Dubai skyline at night"
+    ],
+    [
+     "photo-1512632578888-169bbbc64f33",
+     "Sheikh Zayed Grand Mosque reflected in a pool, Abu Dhabi"
+    ],
+    [
+     "photo-1549944850-84e00be4203b",
+     "Camels on the desert dunes"
+    ],
+    [
+     "photo-1582120042072-d01e2fc8f3ea",
+     "Dhow cruise in Dubai Marina"
+    ]
+   ],
+   "summary": "5 Nights / 6 Days — Dubai (4) – Yas Island (1) with accommodation, breakfast, all sightseeing, desert safari, cruise dinner and transportation.",
+   "overview": "Dubai in style for four nights — city tour, Burj Khalifa, desert safari and a Marina cruise dinner — then a night on Abu Dhabi’s Yas Island with the Sheikh Zayed Grand Mosque on the way.",
+   "highlights": [
+    "Dubai city tour & Burj Khalifa",
+    "Desert safari with BBQ dinner",
+    "Dubai Marina dhow cruise dinner",
+    "Sheikh Zayed Grand Mosque, Abu Dhabi",
+    "Yas Island — Ferrari World / Yas Waterworld (optional)"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Dubai · Cruise Dinner",
+     "text": "Arrive and transfer to the hotel. Evening dhow cruise dinner along Dubai Marina.",
+     "items": [
+      [
+       "plane",
+       "Arrive Dubai (DXB)"
+      ],
+      [
+       "ship",
+       "Marina cruise dinner"
+      ]
+     ],
+     "meals": "Dinner",
+     "stay": "Hotel, Dubai"
+    },
+    {
+     "title": "Dubai City Tour · Burj Khalifa",
+     "text": "Half-day city tour, then Burj Khalifa ‘At the Top’ and the Dubai Fountain show.",
+     "items": [
+      [
+       "bus",
+       "Dubai city tour"
+      ],
+      [
+       "landmark",
+       "Burj Khalifa"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Dubai"
+    },
+    {
+     "title": "Desert Safari",
+     "text": "Morning free; afternoon desert safari with dune bashing, camel ride and BBQ dinner.",
+     "items": [
+      [
+       "car-side",
+       "Desert safari with BBQ dinner"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Dubai"
+    },
+    {
+     "title": "Day at Leisure",
+     "text": "Free day for Dubai Mall, the Museum of the Future or a spa.",
+     "items": [
+      [
+       "bag-shopping",
+       "Free time"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Dubai"
+    },
+    {
+     "title": "Abu Dhabi · Yas Island",
+     "text": "Drive to Abu Dhabi, visit the Sheikh Zayed Grand Mosque, then check in on Yas Island. Optional Ferrari World or Yas Waterworld.",
+     "items": [
+      [
+       "mosque",
+       "Sheikh Zayed Grand Mosque"
+      ],
+      [
+       "ticket",
+       "Optional Yas Island theme park"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": "Hotel, Yas Island"
+    },
+    {
+     "title": "Depart",
+     "text": "Transfer to Abu Dhabi or Dubai airport for your flight home.",
+     "items": [
+      [
+       "car",
+       "Hotel-to-airport transfer"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Dubai",
+     "4★/5★ hotel or similar"
+    ],
+    [
+     "Yas Island",
+     "4★/5★ hotel or similar"
+    ]
+   ],
+   "inclusions": [
+    "Accommodation",
+    "Daily breakfast",
+    "All sightseeing as per itinerary",
+    "Desert safari with BBQ dinner",
+    "Cruise dinner",
+    "Transportation & airport transfers"
+   ],
+   "exclusions": [
+    "Airfare (we quote the best fare for your dates separately)",
+    "Visa fees unless mentioned",
+    "Travel insurance",
+    "Lunches / meals not mentioned",
+    "Personal expenses, tips and porterage",
+    "Anything not listed under inclusions",
+    "Tourism Dirham fee (paid at hotel)"
+   ],
+   "bestTime": "November to March",
+   "faqs": [
+    [
+     "Can we add Ferrari World or Yas Waterworld?",
+     "Yes — theme-park tickets can be added at the current price."
+    ],
+    [
+     "Is the UAE visa included?",
+     "We process the UAE tourist visa for you at the prevailing fee."
+    ]
+   ],
+   "priceNote": "per person, starting price"
+  },
+  {
+   "slug": "kashmir-escape",
+   "group": "honeymoon",
+   "title": "Kashmir Escape",
+   "category": "Honeymoon · Domestic · Jammu & Kashmir",
+   "country": "India",
+   "cities": [
+    "Srinagar"
+   ],
+   "nights": 4,
+   "days": 5,
+   "price": 19500,
+   "pax": "Couples",
+   "badge": "",
+   "image": "photo-1569852837227-1d0d3af93456",
+   "imageAlt": "Shikara on Dal Lake with mountains behind, Srinagar",
+   "gallery": [
+    [
+     "photo-1595815771614-ade9d652a65d",
+     "Houseboat on Dal Lake"
+    ],
+    [
+     "photo-1568889753852-196c487a536e",
+     "Gulmarg Gondola"
+    ],
+    [
+     "photo-1661747340818-df15f186554e",
+     "Pahalgam valley"
+    ],
+    [
+     "photo-1631693558359-f7afa9e8e883",
+     "Wildflowers and a house on a Kashmir hillside"
+    ]
+   ],
+   "summary": "4 Nights / 5 Days — Srinagar (4) with breakfast + dinner, all sightseeing, transportation, accommodation and a tour guide.",
+   "overview": "Stay four nights in Srinagar — including a houseboat night on Dal Lake — and see Gulmarg, Pahalgam and Sonamarg on day trips, without changing hotels.",
+   "highlights": [
+    "Shikara ride on Dal Lake",
+    "Mughal Gardens & Hazratbal",
+    "Gulmarg day trip",
+    "Pahalgam day trip",
+    "Sonamarg & Thajiwas glacier day trip"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Srinagar · Shikara",
+     "text": "Arrive at Srinagar airport and check in to a houseboat. Sunset shikara ride on Dal Lake.",
+     "items": [
+      [
+       "plane",
+       "Arrive Srinagar (SXR)"
+      ],
+      [
+       "ship",
+       "Shikara ride"
+      ]
+     ],
+     "meals": "Dinner",
+     "stay": "Houseboat, Dal Lake"
+    },
+    {
+     "title": "Gulmarg Day Trip",
+     "text": "Day trip to Gulmarg for the meadows and the Gondola (ticket extra).",
+     "items": [
+      [
+       "car",
+       "Srinagar ⇄ Gulmarg"
+      ],
+      [
+       "cable-car",
+       "Optional Gondola"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Srinagar"
+    },
+    {
+     "title": "Pahalgam Day Trip",
+     "text": "Day trip to Pahalgam via the Pampore saffron fields; Betaab Valley by local cab.",
+     "items": [
+      [
+       "car",
+       "Srinagar ⇄ Pahalgam"
+      ],
+      [
+       "mountain",
+       "Betaab Valley"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Srinagar"
+    },
+    {
+     "title": "Sonamarg Day Trip",
+     "text": "Drive along the Sindh river to Sonamarg, the ‘meadow of gold’, with an optional pony ride to the Thajiwas glacier.",
+     "items": [
+      [
+       "car",
+       "Srinagar ⇄ Sonamarg"
+      ],
+      [
+       "horse",
+       "Optional pony ride"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Srinagar"
+    },
+    {
+     "title": "Mughal Gardens · Depart",
+     "text": "Visit Nishat and Shalimar Bagh before your transfer to the airport.",
+     "items": [
+      [
+       "leaf",
+       "Mughal Gardens"
+      ],
+      [
+       "car",
+       "Hotel-to-airport transfer"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Srinagar",
+     "Deluxe houseboat (1N) + 3★ hotel (3N) or similar"
+    ]
+   ],
+   "inclusions": [
+    "Accommodation",
+    "Breakfast + Dinner",
+    "All sightseeing as per itinerary",
+    "Transportation (private vehicle)",
+    "Tour guide",
+    "Shikara ride (1 hour)"
+   ],
+   "exclusions": [
+    "Airfare / train fare to the starting point",
+    "Lunches / meals not mentioned",
+    "Entry tickets, camera fees and adventure activities unless mentioned",
+    "Personal expenses, tips and porterage",
+    "GST as applicable",
+    "Anything not listed under inclusions",
+    "Local union cabs, ponies and Gondola tickets"
+   ],
+   "bestTime": "March to October; December to February for snow",
+   "faqs": [
+    [
+     "Is there a houseboat stay in Kashmir Escape?",
+     "Yes — the first night is on a deluxe houseboat on Dal Lake."
+    ],
+    [
+     "Is airfare included?",
+     "No — flights to Srinagar are quoted separately."
+    ]
+   ],
+   "priceNote": "per person, starting price"
+  },
+  {
+   "slug": "seaside-kerala",
+   "group": "honeymoon",
+   "title": "Seaside Kerala",
+   "category": "Honeymoon · Domestic · Kerala",
+   "country": "India",
+   "cities": [
+    "Cochin",
+    "Alleppey",
+    "Kovalam"
+   ],
+   "nights": 4,
+   "days": 5,
+   "price": 21999,
+   "pax": "Couples",
+   "badge": "",
+   "image": "photo-1593693397690-362cb9666fc2",
+   "imageAlt": "Houseboat on the Alleppey backwaters",
+   "gallery": [
+    [
+     "photo-1590123732197-e7079d2ceb89",
+     "Fort Kochi waterfront"
+    ],
+    [
+     "photo-1624554305378-0f440dd3a8c1",
+     "Boat silhouette at sunset in Kerala"
+    ],
+    [
+     "photo-1586030138336-4a854c6ddb5f",
+     "Kovalam lighthouse"
+    ],
+    [
+     "photo-1644259003223-ec2197276667",
+     "Palm-lined beach near Kovalam"
+    ]
+   ],
+   "summary": "4 Nights / 5 Days — Cochin (1) – Alleppey (1) – Kovalam (2) with accommodation, meals, all sightseeing, transportation and a houseboat in Alleppey.",
+   "overview": "Kerala’s coast for couples: Fort Kochi’s heritage lanes, a private overnight houseboat on the backwaters, and two beach nights in Kovalam.",
+   "highlights": [
+    "Fort Kochi & Chinese fishing nets",
+    "Private overnight houseboat, Alleppey",
+    "Kovalam Lighthouse Beach",
+    "Poovar backwaters (optional)",
+    "Padmanabhaswamy Temple (outside), Trivandrum"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Cochin",
+     "text": "Arrive at Cochin airport. Afternoon tour of Fort Kochi — Chinese fishing nets, St Francis Church and Jew Town.",
+     "items": [
+      [
+       "plane",
+       "Arrive Cochin (COK)"
+      ],
+      [
+       "landmark",
+       "Fort Kochi tour"
+      ]
+     ],
+     "meals": "Dinner",
+     "stay": "Hotel, Cochin"
+    },
+    {
+     "title": "Cochin → Alleppey Houseboat",
+     "text": "Drive to Alleppey and board a private houseboat for a cruise through the backwaters. Overnight on board.",
+     "items": [
+      [
+       "ship",
+       "Private houseboat cruise"
+      ]
+     ],
+     "meals": "Breakfast, Lunch, Dinner",
+     "stay": "Houseboat, Alleppey"
+    },
+    {
+     "title": "Alleppey → Kovalam",
+     "text": "Disembark and drive to Kovalam. Evening on Lighthouse Beach.",
+     "items": [
+      [
+       "car",
+       "Drive Alleppey → Kovalam"
+      ],
+      [
+       "umbrella-beach",
+       "Lighthouse Beach"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Kovalam"
+    },
+    {
+     "title": "Kovalam & Trivandrum",
+     "text": "Trivandrum city tour and optional Poovar backwater cruise; rest of the day at the beach.",
+     "items": [
+      [
+       "landmark",
+       "Trivandrum city tour"
+      ],
+      [
+       "ship",
+       "Optional Poovar cruise"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Kovalam"
+    },
+    {
+     "title": "Depart Trivandrum",
+     "text": "Transfer to Trivandrum airport for your flight home.",
+     "items": [
+      [
+       "car",
+       "Hotel-to-airport transfer"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Cochin",
+     "3★ hotel or similar"
+    ],
+    [
+     "Alleppey",
+     "Private deluxe houseboat"
+    ],
+    [
+     "Kovalam",
+     "3★/4★ beach hotel or similar"
+    ]
+   ],
+   "inclusions": [
+    "Accommodation",
+    "Meals (breakfast & dinner; all meals on the houseboat)",
+    "All sightseeing as per itinerary",
+    "Transportation (private AC vehicle)",
+    "Houseboat (Alleppey)"
+   ],
+   "exclusions": [
+    "Airfare / train fare to the starting point",
+    "Lunches / meals not mentioned",
+    "Entry tickets, camera fees and adventure activities unless mentioned",
+    "Personal expenses, tips and porterage",
+    "GST as applicable",
+    "Anything not listed under inclusions"
+   ],
+   "bestTime": "September to March",
+   "faqs": [
+    [
+     "Is the houseboat private for couples?",
+     "Yes — a private one-bedroom houseboat with crew and all meals on board."
+    ],
+    [
+     "Where does the tour end?",
+     "At Trivandrum airport, about 30 minutes from Kovalam."
+    ]
+   ],
+   "priceNote": "per person, starting price"
+  },
+  {
+   "slug": "thrilling-karnataka",
+   "group": "honeymoon",
+   "title": "Thrilling Karnataka",
+   "category": "Honeymoon · Domestic · Karnataka",
+   "country": "India",
+   "cities": [
+    "Coorg",
+    "Mysore"
+   ],
+   "nights": 5,
+   "days": 6,
+   "price": 29990,
+   "pax": "Couples",
+   "badge": "",
+   "image": "photo-1560357647-62a43d9897bb",
+   "imageAlt": "Cloud-covered green hills of Coorg",
+   "gallery": [
+    [
+     "photo-1655128633542-b6b7e86e93b4",
+     "Waterfall in a Coorg forest"
+    ],
+    [
+     "photo-1599922760936-e840fa373d8d",
+     "Coffee country greenery in Coorg"
+    ],
+    [
+     "photo-1659126574791-13313aa424bd",
+     "Mysore Palace illuminated at night"
+    ],
+    [
+     "photo-1657856855186-7cf4909a4f78",
+     "Mysore Palace domes"
+    ]
+   ],
+   "summary": "5 Nights / 6 Days — Coorg (3) – Mysore (2) with breakfast + dinner, all sightseeing, transportation, accommodation and a tour guide.",
+   "overview": "Coffee estates, waterfalls and misty hills in Coorg, then the palaces and gardens of royal Mysore — an easy, romantic South India getaway.",
+   "highlights": [
+    "Abbey Falls & Raja’s Seat, Coorg",
+    "Dubare Elephant Camp & river rafting (seasonal)",
+    "Golden Temple (Namdroling Monastery), Bylakuppe",
+    "Mysore Palace & Chamundi Hills",
+    "Brindavan Gardens musical fountain"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Bangalore → Coorg",
+     "text": "Pick-up from Bangalore (or Mangalore) and drive to Coorg. Evening at leisure at your resort.",
+     "items": [
+      [
+       "car",
+       "Drive to Coorg"
+      ]
+     ],
+     "meals": "Dinner",
+     "stay": "Resort, Coorg"
+    },
+    {
+     "title": "Coorg Sightseeing",
+     "text": "Abbey Falls, Omkareshwara Temple, Madikeri Fort and sunset at Raja’s Seat.",
+     "items": [
+      [
+       "water",
+       "Abbey Falls"
+      ],
+      [
+       "camera",
+       "Raja’s Seat sunset"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Resort, Coorg"
+    },
+    {
+     "title": "Dubare & Bylakuppe",
+     "text": "Dubare Elephant Camp, Nisargadhama island and the Namdroling Golden Temple at Bylakuppe.",
+     "items": [
+      [
+       "paw",
+       "Dubare Elephant Camp"
+      ],
+      [
+       "place-of-worship",
+       "Namdroling Golden Temple"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Resort, Coorg"
+    },
+    {
+     "title": "Coorg → Mysore",
+     "text": "Drive to Mysore. Evening at Brindavan Gardens for the musical fountain show.",
+     "items": [
+      [
+       "car",
+       "Drive Coorg → Mysore"
+      ],
+      [
+       "water",
+       "Brindavan Gardens"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Mysore"
+    },
+    {
+     "title": "Mysore Sightseeing",
+     "text": "Mysore Palace, Chamundi Hills, St Philomena’s Church and Devaraja market.",
+     "items": [
+      [
+       "landmark",
+       "Mysore Palace"
+      ],
+      [
+       "mountain",
+       "Chamundi Hills"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Mysore"
+    },
+    {
+     "title": "Depart",
+     "text": "Drive to Bangalore airport for your flight home (via Srirangapatna).",
+     "items": [
+      [
+       "car",
+       "Drive Mysore → Bangalore airport"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Coorg",
+     "3★/4★ resort or similar"
+    ],
+    [
+     "Mysore",
+     "3★ hotel or similar"
+    ]
+   ],
+   "inclusions": [
+    "Accommodation",
+    "Breakfast + Dinner",
+    "All sightseeing as per itinerary",
+    "Transportation (private vehicle)",
+    "Tour guide"
+   ],
+   "exclusions": [
+    "Airfare / train fare to the starting point",
+    "Lunches / meals not mentioned",
+    "Entry tickets, camera fees and adventure activities unless mentioned",
+    "Personal expenses, tips and porterage",
+    "GST as applicable",
+    "Anything not listed under inclusions"
+   ],
+   "bestTime": "October to March",
+   "faqs": [
+    [
+     "Where does the Karnataka tour start?",
+     "From Bangalore (or Mangalore on request), with a private vehicle throughout."
+    ],
+    [
+     "Is river rafting included?",
+     "Rafting at Dubare is seasonal and optional, paid directly."
+    ]
+   ],
+   "priceNote": "per person, starting price"
+  },
+  {
+   "slug": "manali-getaway",
+   "group": "honeymoon",
+   "title": "Manali Getaway",
+   "category": "Honeymoon · Domestic · Himachal Pradesh",
+   "country": "India",
+   "cities": [
+    "Manali"
+   ],
+   "nights": 3,
+   "days": 4,
+   "price": 12666,
+   "pax": "Couples",
+   "badge": "",
+   "image": "photo-1712388430474-ace0c16051e2",
+   "imageAlt": "Sun over snowy mountains near Manali",
+   "gallery": [
+    [
+     "photo-1609920658906-8223bd289001",
+     "Beas river and trees, Manali"
+    ],
+    [
+     "photo-1593181629936-11c609b8db9b",
+     "Snow point near Manali"
+    ],
+    [
+     "photo-1597167231350-d057a45dc868",
+     "Manali town under snow peaks"
+    ],
+    [
+     "photo-1579689189009-874f5cac2db5",
+     "Travellers in the snow"
+    ]
+   ],
+   "summary": "3 Nights / 4 Days — Manali (3) with breakfast + dinner, all sightseeing, transportation, accommodation and a tour guide.",
+   "overview": "Three nights in Manali with Solang Valley snow, the Atal Tunnel and the old temples and cafés of Old Manali.",
+   "highlights": [
+    "Solang Valley — ropeway, paragliding & snow activities",
+    "Atal Tunnel to Sissu",
+    "Hadimba Temple & Old Manali",
+    "Vashisht hot springs",
+    "Mall Road evening"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Manali",
+     "text": "Arrive by overnight Volvo from Delhi or flight to Bhuntar and transfer to the hotel. Evening on Mall Road.",
+     "items": [
+      [
+       "bus",
+       "Pick-up at Manali / Bhuntar"
+      ],
+      [
+       "bag-shopping",
+       "Mall Road"
+      ]
+     ],
+     "meals": "Dinner",
+     "stay": "Hotel, Manali"
+    },
+    {
+     "title": "Solang Valley & Atal Tunnel",
+     "text": "Day trip to Solang Valley and through the Atal Tunnel to Sissu (Rohtang on permit).",
+     "items": [
+      [
+       "mountain",
+       "Solang Valley"
+      ],
+      [
+       "road",
+       "Atal Tunnel & Sissu"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Manali"
+    },
+    {
+     "title": "Manali Local Sightseeing",
+     "text": "Hadimba Temple, Vashisht hot springs, Tibetan monastery, Club House and Old Manali cafés.",
+     "items": [
+      [
+       "place-of-worship",
+       "Hadimba Temple"
+      ],
+      [
+       "hot-tub-person",
+       "Vashisht hot springs"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Manali"
+    },
+    {
+     "title": "Depart Manali",
+     "text": "Transfer to the Volvo stand or Bhuntar airport.",
+     "items": [
+      [
+       "car",
+       "Departure transfer"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Manali",
+     "3★ hotel or similar"
+    ]
+   ],
+   "inclusions": [
+    "Accommodation",
+    "Breakfast + Dinner",
+    "All sightseeing as per itinerary",
+    "Transportation (private vehicle)",
+    "Tour guide"
+   ],
+   "exclusions": [
+    "Airfare / train fare to the starting point",
+    "Lunches / meals not mentioned",
+    "Entry tickets, camera fees and adventure activities unless mentioned",
+    "Personal expenses, tips and porterage",
+    "GST as applicable",
+    "Anything not listed under inclusions",
+    "Rohtang permit, Solang activities & local union cabs"
+   ],
+   "bestTime": "March to June; December to February for snow",
+   "faqs": [
+    [
+     "How do we reach Manali from Mumbai?",
+     "Fly to Delhi or Chandigarh and take an overnight Volvo, or fly to Bhuntar (Kullu). We can book any of these."
+    ],
+    [
+     "Will there be snow?",
+     "Snow is likely at Solang and Atal Tunnel from December to April."
+    ]
+   ],
+   "priceNote": "per person, starting price"
+  },
+  {
+   "slug": "incredible-goa",
+   "group": "honeymoon",
+   "title": "Incredible Goa",
+   "category": "Honeymoon · Domestic · Goa",
+   "country": "India",
+   "cities": [
+    "North Goa",
+    "South Goa"
+   ],
+   "nights": 3,
+   "days": 4,
+   "price": 10490,
+   "pax": "Couples",
+   "badge": "",
+   "image": "photo-1512343879784-a960bf40e7f2",
+   "imageAlt": "Blue sea under a sunny sky in Goa",
+   "gallery": [
+    [
+     "photo-1614082242765-7c98ca0f3df3",
+     "Colourful beach huts and palms in Goa"
+    ],
+    [
+     "photo-1560179406-1c6c60e0dc76",
+     "Beach umbrellas on a Goa beach"
+    ],
+    [
+     "photo-1582972236019-ea4af5ffe587",
+     "Palm-lined Goa beach"
+    ],
+    [
+     "photo-1682743710558-b338ba285925",
+     "Dinner table on the beach"
+    ]
+   ],
+   "summary": "3 Nights / 4 Days with breakfast + dinner, all sightseeing, transportation, accommodation and a tour guide.",
+   "overview": "Beaches, forts and old churches in a long weekend: North Goa’s beaches and Fort Aguada, South Goa’s churches and Colva, and a sunset cruise on the Mandovi.",
+   "highlights": [
+    "North Goa — Calangute, Baga & Anjuna beaches",
+    "Fort Aguada & Chapora Fort",
+    "Basilica of Bom Jesus, Old Goa",
+    "Colva & Miramar beaches, South Goa",
+    "Mandovi river sunset cruise"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Goa",
+     "text": "Arrive at Goa airport or Madgaon/Thivim station and transfer to the hotel. Evening at the beach.",
+     "items": [
+      [
+       "plane",
+       "Arrive Goa (GOI/GOX)"
+      ],
+      [
+       "car",
+       "Arrival transfer"
+      ]
+     ],
+     "meals": "Dinner",
+     "stay": "Hotel, Goa"
+    },
+    {
+     "title": "North Goa Tour",
+     "text": "Fort Aguada, Calangute, Baga, Anjuna and Vagator beaches and Chapora Fort.",
+     "items": [
+      [
+       "umbrella-beach",
+       "North Goa beaches"
+      ],
+      [
+       "landmark",
+       "Fort Aguada & Chapora"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Goa"
+    },
+    {
+     "title": "South Goa Tour · River Cruise",
+     "text": "Old Goa churches (Basilica of Bom Jesus, Se Cathedral), Mangueshi Temple, Dona Paula, Miramar and Colva beaches; evening Mandovi river cruise.",
+     "items": [
+      [
+       "church",
+       "Old Goa churches"
+      ],
+      [
+       "ship",
+       "Mandovi sunset cruise"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Goa"
+    },
+    {
+     "title": "Depart Goa",
+     "text": "Transfer to the airport or station for your journey home.",
+     "items": [
+      [
+       "car",
+       "Departure transfer"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Goa",
+     "3★ hotel or similar"
+    ]
+   ],
+   "inclusions": [
+    "Accommodation",
+    "Breakfast + Dinner",
+    "All sightseeing as per itinerary",
+    "Transportation (private vehicle)",
+    "Tour guide"
+   ],
+   "exclusions": [
+    "Airfare / train fare to the starting point",
+    "Lunches / meals not mentioned",
+    "Entry tickets, camera fees and adventure activities unless mentioned",
+    "Personal expenses, tips and porterage",
+    "GST as applicable",
+    "Anything not listed under inclusions",
+    "Water sports & cruise ticket"
+   ],
+   "bestTime": "November to February",
+   "faqs": [
+    [
+     "Is Incredible Goa good for a short honeymoon?",
+     "Yes — 3 nights with both North and South Goa covered and free evenings for the beach."
+    ],
+    [
+     "Can we travel by train from Mumbai?",
+     "Yes — we arrange pick-up from Madgaon or Thivim station as well as the airport."
+    ]
+   ],
+   "priceNote": "per person, starting price",
+   "featured": true
+  },
+  {
+   "slug": "wonders-of-himachal",
+   "group": "honeymoon",
+   "title": "Wonders of Himachal",
+   "category": "Honeymoon · Domestic · Himachal Pradesh",
+   "country": "India",
+   "cities": [
+    "Shimla",
+    "Manali"
+   ],
+   "nights": 5,
+   "days": 6,
+   "price": 23990,
+   "pax": "Couples",
+   "badge": "",
+   "image": "photo-1597074866923-dc0589150358",
+   "imageAlt": "Shimla town on the hills under a blue sky",
+   "gallery": [
+    [
+     "photo-1657894736581-ccc35d62d9e2",
+     "Shimla with mountains behind"
+    ],
+    [
+     "photo-1641735735000-c9719ac2740b",
+     "Christ Church, Shimla"
+    ],
+    [
+     "photo-1712388430474-ace0c16051e2",
+     "Snowy mountains near Manali"
+    ],
+    [
+     "photo-1609920658906-8223bd289001",
+     "Beas river, Manali"
+    ]
+   ],
+   "summary": "5 Nights / 6 Days — Shimla (2) – Manali (3) with breakfast + dinner, all sightseeing, transportation, accommodation and a tour guide.",
+   "overview": "Himachal’s two favourite hill stations: colonial Shimla with Kufri, then three nights in Manali with Solang Valley and the Atal Tunnel.",
+   "highlights": [
+    "Mall Road, the Ridge & Christ Church, Shimla",
+    "Kufri excursion",
+    "Kullu valley & optional river rafting",
+    "Solang Valley & Atal Tunnel",
+    "Hadimba Temple & Old Manali"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Chandigarh → Shimla",
+     "text": "Pick-up from Chandigarh and drive to Shimla. Evening on Mall Road.",
+     "items": [
+      [
+       "car",
+       "Drive Chandigarh → Shimla"
+      ]
+     ],
+     "meals": "Dinner",
+     "stay": "Hotel, Shimla"
+    },
+    {
+     "title": "Kufri & Shimla",
+     "text": "Excursion to Kufri, then Jakhoo Temple and Christ Church.",
+     "items": [
+      [
+       "mountain",
+       "Kufri"
+      ],
+      [
+       "church",
+       "Christ Church"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Shimla"
+    },
+    {
+     "title": "Shimla → Manali",
+     "text": "Drive to Manali through the Kullu valley (optional rafting).",
+     "items": [
+      [
+       "car",
+       "Drive Shimla → Manali"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Manali"
+    },
+    {
+     "title": "Solang Valley & Atal Tunnel",
+     "text": "Day trip to Solang Valley and through the Atal Tunnel to Sissu.",
+     "items": [
+      [
+       "mountain",
+       "Solang Valley"
+      ],
+      [
+       "road",
+       "Atal Tunnel"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Manali"
+    },
+    {
+     "title": "Manali Local Sightseeing",
+     "text": "Hadimba Temple, Vashisht hot springs, monastery and Old Manali.",
+     "items": [
+      [
+       "place-of-worship",
+       "Hadimba Temple"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Manali"
+    },
+    {
+     "title": "Depart",
+     "text": "Drive back to Chandigarh for your onward journey.",
+     "items": [
+      [
+       "car",
+       "Drive Manali → Chandigarh"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Shimla",
+     "3★ hotel or similar"
+    ],
+    [
+     "Manali",
+     "3★ hotel or similar"
+    ]
+   ],
+   "inclusions": [
+    "Accommodation",
+    "Breakfast + Dinner",
+    "All sightseeing as per itinerary",
+    "Transportation (private vehicle)",
+    "Tour guide"
+   ],
+   "exclusions": [
+    "Airfare / train fare to the starting point",
+    "Lunches / meals not mentioned",
+    "Entry tickets, camera fees and adventure activities unless mentioned",
+    "Personal expenses, tips and porterage",
+    "GST as applicable",
+    "Anything not listed under inclusions",
+    "Rohtang permit, Solang activities & local union cabs"
+   ],
+   "bestTime": "March to June; December to February for snow",
+   "faqs": [
+    [
+     "Where does Wonders of Himachal start?",
+     "At Chandigarh airport or railway station, and it ends there too."
+    ],
+    [
+     "Can we add Dharamshala?",
+     "Yes — see our Grand Himachal with Amritsar package, or ask us to customise."
+    ]
+   ],
+   "priceNote": "per person, starting price"
+  },
+  {
+   "slug": "char-dham-yatra",
+   "group": "religious",
+   "title": "Char Dham Yatra",
+   "category": "Religious · Domestic · Uttarakhand",
+   "country": "India",
+   "cities": [
+    "Haridwar",
+    "Barkot",
+    "Uttarkashi",
+    "Guptkashi",
+    "Badrinath",
+    "Rudraprayag"
+   ],
+   "nights": 10,
+   "days": 11,
+   "price": 85000,
+   "pax": "Family",
+   "badge": "",
+   "image": "photo-1612438214708-f428a707dd4e",
+   "imageAlt": "Kedarnath Temple in the Himalayas",
+   "gallery": [
+    [
+     "photo-1653392091141-2009299aab35",
+     "Ganga aarti at Haridwar"
+    ],
+    [
+     "photo-1601821139990-9fc929db79ce",
+     "Badrinath town by the Alaknanda river"
+    ],
+    [
+     "photo-1699042921538-6d03a8df9631",
+     "Trident before a snow-covered peak"
+    ],
+    [
+     "photo-1730021618560-cdb6b81592c2",
+     "Temple in the mountains"
+    ]
+   ],
+   "summary": "10 Nights / 11 Days — Haridwar – Barkot – Uttarkashi – Guptkashi – Badrinath – Rudraprayag – Haridwar with accommodation, all sightseeing, breakfast + dinner, transportation and helicopter service to Kedarnath.",
+   "overview": "The complete Char Dham Yatra of Yamunotri, Gangotri, Kedarnath and Badrinath from Haridwar, with the Kedarnath leg by helicopter to save the long trek.",
+   "highlights": [
+    "Ganga aarti at Har Ki Pauri, Haridwar",
+    "Yamunotri darshan (trek / pony / palki)",
+    "Gangotri darshan",
+    "Kedarnath by helicopter",
+    "Badrinath darshan & Mana village",
+    "Devprayag confluence"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Haridwar",
+     "text": "Pick-up from Dehradun airport or Haridwar station. Evening Ganga aarti at Har Ki Pauri.",
+     "items": [
+      [
+       "car",
+       "Arrival transfer"
+      ],
+      [
+       "fire",
+       "Ganga aarti"
+      ]
+     ],
+     "meals": "Dinner",
+     "stay": "Hotel, Haridwar"
+    },
+    {
+     "title": "Haridwar → Barkot",
+     "text": "Drive via Mussoorie and Kempty Falls to Barkot.",
+     "items": [
+      [
+       "car",
+       "Drive Haridwar → Barkot"
+      ],
+      [
+       "water",
+       "Kempty Falls"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Barkot"
+    },
+    {
+     "title": "Yamunotri Darshan",
+     "text": "Drive to Janki Chatti and trek (or pony/palki, extra) about 6 km to Yamunotri for darshan; return to Barkot.",
+     "items": [
+      [
+       "person-hiking",
+       "Yamunotri trek"
+      ],
+      [
+       "place-of-worship",
+       "Yamunotri darshan"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Barkot"
+    },
+    {
+     "title": "Barkot → Uttarkashi",
+     "text": "Drive to Uttarkashi; visit the Kashi Vishwanath temple.",
+     "items": [
+      [
+       "car",
+       "Drive Barkot → Uttarkashi"
+      ],
+      [
+       "place-of-worship",
+       "Kashi Vishwanath, Uttarkashi"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Uttarkashi"
+    },
+    {
+     "title": "Gangotri Darshan",
+     "text": "Day trip to Gangotri via Harsil for darshan; return to Uttarkashi.",
+     "items": [
+      [
+       "car",
+       "Uttarkashi ⇄ Gangotri"
+      ],
+      [
+       "place-of-worship",
+       "Gangotri darshan"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Uttarkashi"
+    },
+    {
+     "title": "Uttarkashi → Guptkashi",
+     "text": "Long scenic drive to Guptkashi along the Mandakini river.",
+     "items": [
+      [
+       "car",
+       "Drive Uttarkashi → Guptkashi"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Guptkashi"
+    },
+    {
+     "title": "Kedarnath by Helicopter",
+     "text": "Transfer to the helipad (Phata/Sersi/Guptkashi) and fly to Kedarnath for darshan; return by helicopter the same day.",
+     "items": [
+      [
+       "helicopter",
+       "Helicopter to Kedarnath"
+      ],
+      [
+       "place-of-worship",
+       "Kedarnath darshan"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Guptkashi"
+    },
+    {
+     "title": "Guptkashi → Badrinath",
+     "text": "Drive to Badrinath via Joshimath. Evening darshan and Tapt Kund.",
+     "items": [
+      [
+       "car",
+       "Drive Guptkashi → Badrinath"
+      ],
+      [
+       "place-of-worship",
+       "Badrinath darshan"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Badrinath"
+    },
+    {
+     "title": "Mana Village → Rudraprayag",
+     "text": "Morning darshan, then Mana village (Vyas Gufa, Bhim Pul) and drive to Rudraprayag.",
+     "items": [
+      [
+       "mountain",
+       "Mana village"
+      ],
+      [
+       "car",
+       "Drive to Rudraprayag"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Rudraprayag"
+    },
+    {
+     "title": "Rudraprayag → Haridwar",
+     "text": "Drive back via Devprayag (confluence of the Alaknanda and Bhagirathi) and Rishikesh.",
+     "items": [
+      [
+       "water",
+       "Devprayag confluence"
+      ],
+      [
+       "car",
+       "Drive to Haridwar"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Haridwar"
+    },
+    {
+     "title": "Depart Haridwar",
+     "text": "Transfer to Dehradun airport or Haridwar station.",
+     "items": [
+      [
+       "car",
+       "Departure transfer"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Haridwar",
+     "3★ hotel or similar"
+    ],
+    [
+     "Barkot",
+     "Best available hotel"
+    ],
+    [
+     "Uttarkashi",
+     "Best available hotel"
+    ],
+    [
+     "Guptkashi",
+     "Best available hotel"
+    ],
+    [
+     "Badrinath",
+     "Best available hotel"
+    ],
+    [
+     "Rudraprayag",
+     "Best available hotel"
+    ]
+   ],
+   "inclusions": [
+    "Accommodation",
+    "All sightseeing as per itinerary",
+    "Breakfast + Dinner",
+    "Transportation (private vehicle)",
+    "Helicopter service to Kedarnath (return)"
+   ],
+   "exclusions": [
+    "Airfare / train fare to the starting point",
+    "Lunches / meals not mentioned",
+    "Entry tickets, camera fees and adventure activities unless mentioned",
+    "Personal expenses, tips and porterage",
+    "GST as applicable",
+    "Anything not listed under inclusions",
+    "Pony / palki at Yamunotri",
+    "Pujas and temple offerings"
+   ],
+   "bestTime": "May to June and September to October (temples open late April/May to November)",
+   "faqs": [
+    [
+     "Is the Kedarnath helicopter guaranteed?",
+     "Helicopter tickets are issued through the official IRCTC/UCADA system and depend on weather; we book as early as the window opens."
+    ],
+    [
+     "Is registration required for Char Dham?",
+     "Yes — Uttarakhand tourism registration is mandatory for every pilgrim; we complete it for you."
+    ]
+   ],
+   "priceNote": "per person, starting price",
+   "featured": true
+  },
+  {
+   "slug": "golden-triangle-tour",
+   "group": "religious",
+   "title": "Golden Triangle Tour",
+   "category": "Religious · Domestic · Delhi, Agra & Rajasthan",
+   "country": "India",
+   "cities": [
+    "Delhi",
+    "Agra",
+    "Jaipur",
+    "Ajmer"
+   ],
+   "nights": 6,
+   "days": 7,
+   "price": 25874,
+   "pax": "Family",
+   "badge": "",
+   "image": "photo-1564507592333-c60657eea523",
+   "imageAlt": "The Taj Mahal, Agra",
+   "gallery": [
+    [
+     "photo-1587474260584-136574528ed5",
+     "India Gate, New Delhi"
+    ],
+    [
+     "photo-1587135941948-670b381f08ce",
+     "Taj Mahal at golden hour"
+    ],
+    [
+     "photo-1603262110263-fb0112e7cc33",
+     "Hawa Mahal, Jaipur"
+    ],
+    [
+     "photo-1602643163983-ed0babc39797",
+     "Old-city lanes in Jaipur"
+    ]
+   ],
+   "summary": "2N Delhi – 1N Agra – 3N Jaipur / Ajmer Sharif Dargah with breakfast + dinner, all sightseeing, transportation, accommodation and a tour guide.",
+   "overview": "India’s classic Golden Triangle — Delhi, Agra and Jaipur — with a day of ziyarat at the Dargah of Khwaja Moinuddin Chishti in Ajmer Sharif.",
+   "highlights": [
+    "Jama Masjid, Red Fort & Qutub Minar, Delhi",
+    "Hazrat Nizamuddin Dargah, Delhi",
+    "Taj Mahal & Agra Fort",
+    "Fatehpur Sikri & Buland Darwaza",
+    "Amer Fort & Hawa Mahal, Jaipur",
+    "Ajmer Sharif Dargah & Adhai Din Ka Jhonpra"
+   ],
+   "itinerary": [
+    {
+     "title": "Arrive Delhi",
+     "text": "Arrive in Delhi and check in. Evening visit to Hazrat Nizamuddin Dargah for the qawwali.",
+     "items": [
+      [
+       "plane",
+       "Arrive Delhi (DEL)"
+      ],
+      [
+       "mosque",
+       "Nizamuddin Dargah"
+      ]
+     ],
+     "meals": "Dinner",
+     "stay": "Hotel, Delhi"
+    },
+    {
+     "title": "Delhi Sightseeing",
+     "text": "Jama Masjid, Red Fort (outside), Chandni Chowk, Raj Ghat, India Gate, Humayun’s Tomb and Qutub Minar.",
+     "items": [
+      [
+       "mosque",
+       "Jama Masjid"
+      ],
+      [
+       "landmark",
+       "Qutub Minar & Humayun’s Tomb"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Delhi"
+    },
+    {
+     "title": "Delhi → Agra · Taj Mahal",
+     "text": "Drive to Agra by expressway. Visit the Taj Mahal and Agra Fort.",
+     "items": [
+      [
+       "car",
+       "Drive Delhi → Agra"
+      ],
+      [
+       "landmark",
+       "Taj Mahal & Agra Fort"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Agra"
+    },
+    {
+     "title": "Fatehpur Sikri → Jaipur",
+     "text": "Visit Fatehpur Sikri, the Jama Masjid and Salim Chishti’s tomb, then drive to Jaipur.",
+     "items": [
+      [
+       "mosque",
+       "Fatehpur Sikri & Buland Darwaza"
+      ],
+      [
+       "car",
+       "Drive to Jaipur"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Jaipur"
+    },
+    {
+     "title": "Jaipur Sightseeing",
+     "text": "Amer Fort, Jal Mahal, City Palace, Jantar Mantar and Hawa Mahal.",
+     "items": [
+      [
+       "landmark",
+       "Amer Fort & City Palace"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Jaipur"
+    },
+    {
+     "title": "Ajmer Sharif Day Trip",
+     "text": "Drive about 2.5 hours to Ajmer for ziyarat at the Dargah of Khwaja Moinuddin Chishti and the Adhai Din Ka Jhonpra mosque; return to Jaipur.",
+     "items": [
+      [
+       "car",
+       "Jaipur ⇄ Ajmer"
+      ],
+      [
+       "mosque",
+       "Ajmer Sharif Dargah"
+      ]
+     ],
+     "meals": "Breakfast, Dinner",
+     "stay": "Hotel, Jaipur"
+    },
+    {
+     "title": "Depart Jaipur",
+     "text": "Transfer to Jaipur airport or station.",
+     "items": [
+      [
+       "car",
+       "Departure transfer"
+      ]
+     ],
+     "meals": "Breakfast",
+     "stay": ""
+    }
+   ],
+   "hotels": [
+    [
+     "Delhi",
+     "3★ hotel or similar"
+    ],
+    [
+     "Agra",
+     "3★ hotel or similar"
+    ],
+    [
+     "Jaipur",
+     "3★ hotel or similar"
+    ]
+   ],
+   "inclusions": [
+    "Accommodation",
+    "Breakfast + Dinner",
+    "All sightseeing as per itinerary",
+    "Transportation (private vehicle)",
+    "Tour guide"
+   ],
+   "exclusions": [
+    "Airfare / train fare to the starting point",
+    "Lunches / meals not mentioned",
+    "Entry tickets, camera fees and adventure activities unless mentioned",
+    "Personal expenses, tips and porterage",
+    "GST as applicable",
+    "Anything not listed under inclusions"
+   ],
+   "bestTime": "October to March",
+   "faqs": [
+    [
+     "Does the Golden Triangle tour include Ajmer Sharif?",
+     "Yes — a full day trip from Jaipur to the Dargah of Khwaja Moinuddin Chishti."
+    ],
+    [
+     "Is the Taj Mahal open every day?",
+     "The Taj Mahal is closed on Fridays, so we plan the Agra day around it."
+    ]
+   ],
+   "priceNote": "per person, starting price",
+   "featured": true
+  }
+ ]
+}
